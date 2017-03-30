@@ -13,7 +13,9 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.25;
+  font-size: $type-size-6;
+  font-weight: 300;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -93,14 +95,21 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin: 2em 1em 2em 0;
-  padding-left: 1em;
+  /* margin: 2em 1em 2em 0; */
+  margin-top: -1.25em;
+  margin-bottom: 0.5em;
+  margin-left: 0em;
+  margin-right: 0em;
+  /* padding-left: 1em; */
+  padding-left: 3em;
   padding-right: 1em;
-  font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  font-size: $type-size-5;
+  /* font-style: italic; */
+  /* border-left: 0.25em solid $primary-color; */
 
   cite {
-    font-style: italic;
+    /* font-style: italic; */
+    font-size: $type-size-5;
 
     &:before {
       content: "\2014";
@@ -112,13 +121,19 @@ blockquote {
 /* links */
 
 a {
+
+  color: $foursquare-color;
+
+
   &:focus {
     @extend %tab-focus;
+    color: $google-plus-color;
   }
 
   &:hover,
   &:active {
     outline: 0;
+    color: $google-plus-color;
   }
 }
 
@@ -164,7 +179,8 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.5em;
+  /* margin-bottom: 0.5em; */
+  margin-bottom: 0.05em;
 }
 
 li ul,
@@ -313,3 +329,5 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
