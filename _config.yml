@@ -19,7 +19,7 @@ email: albert.fang@yale.edu
 description: > # this means to ignore newlines until "baseurl:"
   Albert Fang | Yale University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://albertfang.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://albertfang.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _alfang
 github_username:  alberthfang
 # Google services
