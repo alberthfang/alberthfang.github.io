@@ -22,7 +22,7 @@ author_profile: true
 
 > with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch
 
-> Conditionally accepted at _Political Science Research and Methods_ (2017)
+> Forthcoming at _Political Science Research and Methods_
 
 > [Local PDF](../research/bsec_paper.pdf) &bull; [Online Appendix](../research/bsec_appx.pdf) &bull; [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D8WD6K) &bull; <a onclick="openClose('bsec')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 >> <p markdown="1" id="bsec" class="texter">Doubts about the integrity of ballot secrecy persist and depress political participation among the American public. Prior experiments have shown that official communications directly addressing these doubts increase turnout among registered voters who had not previously voted, but evaluations of similar messages sent by non-governmental campaigns have yielded only suggestive effects. We build on past research and analyze two large-scale field experiments where a private non-partisan non-profit group sought to increase turnout by communicating ballot secrecy assurances in a direct mail voter mobilization campaign during the 2014 midterm election. Our main finding is that a private group's mailing increases turnout by about 1 percentage point among registered nonvoters. This finding is precisely estimated and robust across state political contexts.</p>
