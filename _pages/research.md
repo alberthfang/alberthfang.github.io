@@ -46,6 +46,8 @@ author_profile: true
 
 > with Alan S. Gerber and Gregory A. Huber
 
+> Revised and Resubmitted to _Political Psychology_
+
 > [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 >> <p markdown="1" id="slc" class="texter">An ongoing debate in political psychology is about whether small wording differences have outsized behavioral effects. A leading example is whether subtle linguistic cues embedded in voter mobilization messages dramatically increase turnout. An initial study analyzing two small-scale field experiments argued that describing someone as a voter (noun) instead of one who votes (verb) increases turnout rates 11 to 14 points because the noun activates a person’s social identity as a voter. A subsequent study analyzing a large-scale field experiment challenged this claim and found no effect. But questions about the initial claim’s domain of applicability persist. The subsequent study may not have reproduced the conditions necessary for the psychological phenomenon to occur, specifically the electoral contexts were not competitive or important enough for the social identity to matter. To address the first of these critiques, as well as other potential explanations for different results between the first two studies, we conduct a large-scale replication field experiment. We find no evidence that this minor wording change increases turnout levels. This research provides new evidence that the strategy of invoking the self does not appear to consistently increase turnout and calls into question whether subtle linguistic cues have outsized behavioral effects.</p>
 
@@ -72,6 +74,8 @@ author_profile: true
 * **The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment**
 
 > with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon
+
+> Revision requested
 
 > [Local PDF](../research/msbs_paper.pdf) &bull; [Online Appendix](../research/msbs_appx.pdf) &bull; <a onclick="openClose('msbs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 >> <p markdown="1" id="msbs" class="texter">Given the persistence of public doubts about the integrity of ballot secrecy, which depress turnout, two prior experiments have shown precise evidence that both official governmental and unofficial mobilization campaigns providing assurances about ballot secrecy increase turnout among recently registered nonvoters. To assess whether these findings replicate in other political settings, we describe a replication experiment where a non-governmental, non-partisan mobilization campaign sent similar treatment mailings containing assurances about ballot secrecy protections to recently registered nonvoters during the 2014 general election in Mississippi. We find that sending this mailer has no effect on turnout rates in this setting, which is characterized by an unusually low baseline turnout rate. These results are consistent with past research concluding that nonpartisan Get Out The Vote (GOTV) mail has very weak effects among very low turnout propensity registrants, and suggest that there are heterogeneous effects of ballot secrecy treatments associated with subjects' characteristics and the electoral context.</p>
