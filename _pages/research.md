@@ -36,7 +36,7 @@ author_profile: true
 
 > &nbsp; with Andrew M. Guess and Macartan Humphreys
 
-> &nbsp; Revised and Resubmitted to _Journal of Politics_
+> &nbsp; Conditionally accepted at _Journal of Politics_
 
 > &nbsp; [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('Housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 >> <p markdown="1" id="Housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
