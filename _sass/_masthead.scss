@@ -40,9 +40,11 @@
   display: flex;
   padding: 0.5rem 0;
   align-self: stretch;
+  font-family: $sans-serif-narrow;
+  font-size: 19px;
   -webkit-box-align: center;
         align-items: center;
-  font-weight: bold;
+  font-weight: 300;
   z-index: 20;
 }
 
