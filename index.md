@@ -9,5 +9,5 @@ I am a Postdoctoral Associate at [Yale University](http://www.yale.edu/), affili
 
 I study American politics, political behavior, public opinion, representation, and racial and ethnic politics. My methodological interests include experimental methods and causal inference. My work is forthcoming at _Political Science Research and Methods_ and _American Politics Research_, and has been funded by the Russell Sage Foundation.
 
-Before graduate school, I was a policy analyst evaluating social policy programs and labor market interventions targeting low-wage workers and communities.
+Before graduate school, I was a policy analyst at a nonpartisan nonprofit research organization evaluating social policy programs and labor market interventions targeting low-wage workers and communities.
 
