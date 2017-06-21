@@ -7,28 +7,15 @@ author_profile: true
 
 ## **Peer-Reviewed Publications**
 
-[2017] **Nongovernmental Campaign Communication Providing Ballot Secrecy Assurances Increases Turnout: Results from Two Large-Scale Experiments** 
-
-> with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch
-
-> _Political Science Research and Methods_
+Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. **Nongovernmental Campaign Communication Providing Ballot Secrecy Assurances Increases Turnout: Results from Two Large-Scale Experiments**.  _Political Science Research and Methods_. (First View June 6, 2017)
 
 > [Journal PDF](https://doi.org/10.1017/psrm.2017.16) &bull; [Local PDF](../research/bsec_paper.pdf) &bull; [Online Appendix](../research/bsec_appx.pdf) &bull; [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D8WD6K) &bull; <a onclick="openClose('bsec')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 >> <p markdown="1" id="bsec" class="texter">Doubts about the integrity of ballot secrecy persist and depress political participation among the American public. Prior experiments have shown that official communications directly addressing these doubts increase turnout among registered voters who had not previously voted, but evaluations of similar messages sent by non-governmental campaigns have yielded only suggestive effects. We build on past research and analyze two large-scale field experiments where a private non-partisan non-profit group sought to increase turnout by communicating ballot secrecy assurances in a direct mail voter mobilization campaign during the 2014 midterm election. Our main finding is that a private group's mailing increases turnout by about 1 percentage point among registered nonvoters. This finding is precisely estimated and robust across state political contexts.</p>
 
-&nbsp;
-
-[2017] **The Generalizability of Social Pressure Effects on Turnout Across High-Salience Electoral Contexts: Field Experimental Evidence from 1.96 Million Citizens in 17 States** 
-
-> with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch
-
-> _American Politics Research_. 45(4): 533-559.
+Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The Generalizability of Social Pressure Effects on Turnout Across High-Salience Electoral Contexts: Field Experimental Evidence from 1.96 Million Citizens in 17 States**. _American Politics Research_. 45(4): 533-559.
 
 > [Journal PDF](https://doi.org/10.1177/1532673X16686556) &bull; [Local PDF with Appendix](../research/self_paper.pdf) &bull; [Replication Archive](../research/self_replication.7z) &bull; <a onclick="openClose('self')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 >> <p markdown="1" id="self" class="texter">Prior experiments show that campaign communications revealing subjects' past turnout and applying social pressure to vote (the "Self" treatment) increase turnout. However, nearly all existing studies are conducted in low salience elections, raising concerns that published findings are not generalizable and are an artifact of sample selection and publication bias. Addressing the need for further replication in high salience elections, we analyze a field experiment involving 1.96 million subjects where a nonpartisan campaign randomly sent Self treatment mailers, containing a subject's vote history and a comparison of each subject's history to their state median registrant's turnout behavior, in high salience elections across 17 states in 2014. Sending the Self mailer increases turnout by 0.7 points, or 2.2%. This effect is largely consistent across states, with somewhat larger effects observed in states with lower ex ante election salience. Our study provides precise evidence that social pressure effects on turnout are generalizable.</p>
-
-> &nbsp;
-
 
 ## **Working Papers and Papers Under Review**
 
