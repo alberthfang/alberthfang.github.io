@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## **Peer-Reviewed Publications**
+## Peer-Reviewed Publications
 
 Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. **Nongovernmental Campaign Communication Providing Ballot Secrecy Assurances Increases Turnout: Results from Two Large-Scale Experiments**.  _Political Science Research and Methods_. (First View June 6, 2017)
 
@@ -21,7 +21,7 @@ Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The 
 
 > <p markdown="1" id="self" class="texter">Prior experiments show that campaign communications revealing subjects' past turnout and applying social pressure to vote (the "Self" treatment) increase turnout. However, nearly all existing studies are conducted in low salience elections, raising concerns that published findings are not generalizable and are an artifact of sample selection and publication bias. Addressing the need for further replication in high salience elections, we analyze a field experiment involving 1.96 million subjects where a nonpartisan campaign randomly sent Self treatment mailers, containing a subject's vote history and a comparison of each subject's history to their state median registrant's turnout behavior, in high salience elections across 17 states in 2014. Sending the Self mailer increases turnout by 0.7 points, or 2.2%. This effect is largely consistent across states, with somewhat larger effects observed in states with lower ex ante election salience. Our study provides precise evidence that social pressure effects on turnout are generalizable.</p>
 
-## **Working Papers and Papers Under Review**
+## Working Papers and Papers Under Review
 
 * **Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City**
 
@@ -84,7 +84,7 @@ Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The 
 
 > &nbsp;
 
-## **Other Writing**
+## Other Writing
 
 * [10 Things You Need to Know About Heterogeneous Treatment Effects.](http://egap.org/content/10-things-know-about-heterogeneous-treatment-effects) 2017. EGAP Methods Guide.
 
