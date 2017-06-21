@@ -13,6 +13,8 @@ Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. **Nongovernm
 
 > <p markdown="1" id="bsec" class="texter">Doubts about the integrity of ballot secrecy persist and depress political participation among the American public. Prior experiments have shown that official communications directly addressing these doubts increase turnout among registered voters who had not previously voted, but evaluations of similar messages sent by non-governmental campaigns have yielded only suggestive effects. We build on past research and analyze two large-scale field experiments where a private non-partisan non-profit group sought to increase turnout by communicating ballot secrecy assurances in a direct mail voter mobilization campaign during the 2014 midterm election. Our main finding is that a private group's mailing increases turnout by about 1 percentage point among registered nonvoters. This finding is precisely estimated and robust across state political contexts.</p>
 
+&nbsp;
+
 Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The Generalizability of Social Pressure Effects on Turnout Across High-Salience Electoral Contexts: Field Experimental Evidence from 1.96 Million Citizens in 17 States**. _American Politics Research_. 45(4): 533-559.
 
 > [Journal PDF](https://doi.org/10.1177/1532673X16686556) &bull; [Local PDF with Appendix](../research/self_paper.pdf) &bull; [Replication Archive](../research/self_replication.7z) &bull; <a onclick="openClose('self')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>

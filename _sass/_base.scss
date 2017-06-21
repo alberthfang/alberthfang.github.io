@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.25;
+  line-height: 1;
   font-size: 15px;
   /* font-size: $type-size-6; */
   font-weight: 300;
@@ -60,9 +60,11 @@ small, .small {
   font-size: $type-size-5;
 }
 
+/*
 p {
   margin-bottom: 1.3em;
 }
+*/
 
 u,
 ins {
