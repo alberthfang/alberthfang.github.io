@@ -7,6 +7,16 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+Alan S. Gerber, Gregory A. Huber, and Albert H. Fang. **Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**
+
+> Forthcoming at _Political Psychology_
+
+> [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="slc" class="texter">An ongoing debate in political psychology is about whether small wording differences have outsized behavioral effects. A leading example is whether subtle linguistic cues embedded in voter mobilization messages dramatically increase turnout. An initial study analyzing two small-scale field experiments argued that describing someone as a voter (noun) instead of one who votes (verb) increases turnout rates 11 to 14 points because the noun activates a person’s social identity as a voter. A subsequent study analyzing a large-scale field experiment challenged this claim and found no effect. But questions about the initial claim’s domain of applicability persist. The subsequent study may not have reproduced the conditions necessary for the psychological phenomenon to occur, specifically the electoral contexts were not competitive or important enough for the social identity to matter. To address the first of these critiques, as well as other potential explanations for different results between the first two studies, we conduct a large-scale replication field experiment. We find no evidence that this minor wording change increases turnout levels. This research provides new evidence that the strategy of invoking the self does not appear to consistently increase turnout and calls into question whether subtle linguistic cues have outsized behavioral effects.</p>
+
+> &nbsp;
+
 Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **Nongovernmental Campaign Communication Providing Ballot Secrecy Assurances Increases Turnout: Results from Two Large-Scale Experiments**.  _Political Science Research and Methods_. (First View June 6, 2017)
 
 > [Journal PDF](https://doi.org/10.1017/psrm.2017.16) &bull; [Local PDF](../research/bsec_paper.pdf) &bull; [Online Appendix](../research/bsec_appx.pdf) &bull; [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D8WD6K) &bull; <a onclick="openClose('bsec')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
@@ -32,16 +42,6 @@ Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The 
 > [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('Housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="Housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
-
-> &nbsp;
-
-**Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment** (with Alan S. Gerber and Gregory A. Huber)
-
-> Revised and Resubmitted to _Political Psychology_
-
-> [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="slc" class="texter">An ongoing debate in political psychology is about whether small wording differences have outsized behavioral effects. A leading example is whether subtle linguistic cues embedded in voter mobilization messages dramatically increase turnout. An initial study analyzing two small-scale field experiments argued that describing someone as a voter (noun) instead of one who votes (verb) increases turnout rates 11 to 14 points because the noun activates a person’s social identity as a voter. A subsequent study analyzing a large-scale field experiment challenged this claim and found no effect. But questions about the initial claim’s domain of applicability persist. The subsequent study may not have reproduced the conditions necessary for the psychological phenomenon to occur, specifically the electoral contexts were not competitive or important enough for the social identity to matter. To address the first of these critiques, as well as other potential explanations for different results between the first two studies, we conduct a large-scale replication field experiment. We find no evidence that this minor wording change increases turnout levels. This research provides new evidence that the strategy of invoking the self does not appear to consistently increase turnout and calls into question whether subtle linguistic cues have outsized behavioral effects.</p>
 
 > &nbsp;
 
