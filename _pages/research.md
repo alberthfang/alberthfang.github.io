@@ -7,9 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Alan S. Gerber, Gregory A. Huber, and Albert H. Fang. **Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**
-
-> Forthcoming at _Political Psychology_
+Alan S. Gerber, Gregory A. Huber, and Albert H. Fang. **Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. Forthcoming at _Political Psychology_.
 
 > [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
