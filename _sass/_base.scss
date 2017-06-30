@@ -13,8 +13,8 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.15;
-  font-size: 14px;
+  line-height: 1.2;
+  font-size: 15px;
   /* font-size: $type-size-6; */
   font-weight: 300;
 
@@ -184,13 +184,13 @@ hr {
 ul li,
 ol li {
   /* margin-bottom: 0.5em; */
-  font-size: 14px;
+  font-size: 15px;
   margin-bottom: 0.5em;
 }
 
 li ul,
 li ol {
-  font-size: 14px;
+  font-size: 15px;
   margin-top: 0.5em;
 }
 
