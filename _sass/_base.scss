@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   margin-top: 0;
   font-size: $type-size-1;
-  font-weight: 500;
+  font-weight: 300;
 }
 
 h2 {
@@ -113,7 +113,7 @@ blockquote {
 
   cite {
     /* font-style: italic; */
-    font-size: 15px;
+    font-size: 14px;
 
     &:before {
       content: "\2014";
@@ -184,13 +184,13 @@ hr {
 ul li,
 ol li {
   /* margin-bottom: 0.5em; */
-  font-size: 15px;
+  font-size: 14px;
   margin-bottom: 0.5em;
 }
 
 li ul,
 li ol {
-  font-size: 15px;
+  font-size: 14px;
   margin-top: 0.5em;
 }
 
