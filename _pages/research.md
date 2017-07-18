@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Catlan E. Reardon. **The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment**. Forthcoming at _PLOS One_
+Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Catlan E. Reardon. **The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment**. Forthcoming at _PLOS ONE_.
 
 > [Local PDF](../research/msbs_paper.pdf) &bull; [Online Appendix](../research/msbs_appx.pdf) &bull; <a onclick="openClose('msbs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
