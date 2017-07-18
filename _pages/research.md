@@ -7,6 +7,14 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Catlan E. Reardon. **The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment**. Forthcoming at _PLOS One_
+
+> [Local PDF](../research/msbs_paper.pdf) &bull; [Online Appendix](../research/msbs_appx.pdf) &bull; <a onclick="openClose('msbs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="msbs" class="texter">Given the persistence of public doubts about the integrity of ballot secrecy, which depress turnout, two prior experiments have shown precise evidence that both official governmental and unofficial mobilization campaigns providing assurances about ballot secrecy increase turnout among recently registered nonvoters. To assess whether these findings replicate in other political settings, we describe a replication experiment where a non-governmental, non-partisan mobilization campaign sent similar treatment mailings containing assurances about ballot secrecy protections to recently registered nonvoters during the 2014 general election in Mississippi. We find that sending this mailer has no effect on turnout rates in this setting, which is characterized by an unusually low baseline turnout rate. These results are consistent with past research concluding that nonpartisan Get Out The Vote (GOTV) mail has very weak effects among very low turnout propensity registrants, and suggest that there are heterogeneous effects of ballot secrecy treatments associated with subjects' characteristics and the electoral context.</p>
+
+> &nbsp;
+
 Alan S. Gerber, Gregory A. Huber, and Albert H. Fang. **Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. Forthcoming at _Political Psychology_.
 
 > [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
@@ -40,16 +48,6 @@ Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The 
 > [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('Housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="Housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
-
-> &nbsp;
-
-**The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment** (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
-
-> Revision requested at _PLOS One_
-
-> [Local PDF](../research/msbs_paper.pdf) &bull; [Online Appendix](../research/msbs_appx.pdf) &bull; <a onclick="openClose('msbs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="msbs" class="texter">Given the persistence of public doubts about the integrity of ballot secrecy, which depress turnout, two prior experiments have shown precise evidence that both official governmental and unofficial mobilization campaigns providing assurances about ballot secrecy increase turnout among recently registered nonvoters. To assess whether these findings replicate in other political settings, we describe a replication experiment where a non-governmental, non-partisan mobilization campaign sent similar treatment mailings containing assurances about ballot secrecy protections to recently registered nonvoters during the 2014 general election in Mississippi. We find that sending this mailer has no effect on turnout rates in this setting, which is characterized by an unusually low baseline turnout rate. These results are consistent with past research concluding that nonpartisan Get Out The Vote (GOTV) mail has very weak effects among very low turnout propensity registrants, and suggest that there are heterogeneous effects of ballot secrecy treatments associated with subjects' characteristics and the electoral context.</p>
 
 > &nbsp;
 
