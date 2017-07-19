@@ -7,7 +7,10 @@ author_profile: true
 
 I am prepared to teach undergraduate and graduate level courses in American politics, political behavior, political psychology, political representation, racial and ethnic politics, public opinion, public policy, experimental methods, causal inference, quantitative methods, and research design. My teaching statement and a summary of my teaching evaluations are available upon request. 
 
-## Courses at Columbia (as Teaching Fellow)
+## At Yale University (as Instructor)
+* Group Processes and Intergroup Relations in American Politics (undergraduate seminar) -- scheduled for Spring 2018
+
+## At Columbia University (as Teaching Fellow)
 * Data Analysis and Statistics (undergraduate) -- Prof. John Huber, 2015
 * Experimental Methods (Ph.D. level) -- Prof. Don Green, 2013
 * Labor and American Politics (undergraduate) -- Prof. Dorian Warren, 2013
