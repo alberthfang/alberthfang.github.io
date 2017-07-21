@@ -53,7 +53,7 @@ Alan S. Gerber, Gregory A. Huber, Albert H. Fang, and Andrew Gooch. 2017. **The 
 
 **The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Voter Mobilization Appeals** (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
 
-> Under review.
+> Invited to revise and resubmit at _American Politics Research_
 
 > [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posneg')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
