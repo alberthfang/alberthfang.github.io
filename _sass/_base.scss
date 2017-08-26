@@ -14,8 +14,8 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.25;
-  /* font-size: 15px; */
-  font-size: $type-size-6;
+  font-size: 15px;
+  //font-size: $type-size-6;
   font-weight: 300;
 
   &.overflow--hidden {
@@ -62,11 +62,11 @@ small, .small {
 }
 
 
-p {
+/*p {
 font-size: 14.5px;
-  /* margin-bottom: 1.3em; */
+   margin-bottom: 1.3em;
 }
-
+*/
 
 u,
 ins {
