@@ -8,7 +8,7 @@ html {
   min-height: 100%;
 }
 
-body, p {
+body {
   margin: 0;
   padding: 0;
   color: $text-color;
@@ -46,6 +46,7 @@ h3 {
 }
 
 h4 {
+  font-family: $global-font-family;
   font-size: $type-size-4;
 }
 
@@ -61,11 +62,12 @@ small, .small {
   font-size: $type-size-5;
 }
 
-/*
+
 p {
-  margin-bottom: 1.3em;
+font-size: 15px;
+  /* margin-bottom: 1.3em; */
 }
-*/
+
 
 u,
 ins {
