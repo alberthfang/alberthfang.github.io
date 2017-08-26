@@ -9,6 +9,6 @@ I am a Postdoctoral Associate at the [Center for the Study of American Politics]
 
 I conduct research at the intersection of racial and ethnic politics, political behavior, representation, public policy, and experimental methods. 
 
-<b>My research aims to understand how individuals' social identities and political contexts shape their political attitudes and behavior with respect to racial politics and intergroup relations.</b>
+My research aims to understand how individuals' social identities and political contexts shape their political attitudes and behavior with respect to racial politics and intergroup relations.
 
 My work is published, forthcoming, or conditionally accepted at peer-reviewed outlets---including The Journal of Politics, Political Psychology, Political Science Research and Methods, American Politics Research, and PLOS ONE---and has been funded by the Russell Sage Foundation.
