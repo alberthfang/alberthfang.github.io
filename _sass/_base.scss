@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.4;
+  line-height: 1.15;
   font-size: 15px;
   //font-size: $type-size-6;
   font-weight: 300;
@@ -103,7 +103,6 @@ abbr[data-original-title] {
 
 blockquote {
   margin: 2em 1em 2em 0;
-  line-height: 90%;
   /* padding-left: 1em; */
   padding-left: 1em;
   padding-right: 1em;
