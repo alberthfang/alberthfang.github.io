@@ -45,18 +45,14 @@ author_profile: true
 
 **Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** (with Andrew M. Guess and Macartan Humphreys)
 
-> Conditionally accepted at _Journal of Politics_
-
-> [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+> **Conditionally accepted at _Journal of Politics_** &bull; [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
 
 
 **The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Voter Mobilization Appeals** (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
 
-> Invited to revise and resubmit at _American Politics Research_
-
-> [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posneg')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+> **Invited to revise and resubmit at _American Politics Research_** &bull; [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posneg')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="posneg" class="texter">An ongoing debate in political science is whether mobilization appeals encouraging voting are more effective when framed positively, by highlighting the desirable behavior of a referent and encouraging consistent behavior, or when framed negatively, by highlighting the referent’s lack of desirable behavior as problematic. Few published studies have experimentally assessed this question and results are mixed across existing studies. We address the need for additional replication by designing and analyzing data from two field experiments conducted across four states in the 2014 primary and general elections. We find no difference between the effects on turnout of voter mobilization campaigns that frame such appeals positively rather than negatively. The results are not sensitive to election context, the mode of treatment delivery, or whether the appeals involve a social or self referent. Additional research is needed to understand the conditions under which framing appeals positively versus negatively have distinguishable effects on turnout.</p>
 
