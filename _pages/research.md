@@ -37,6 +37,12 @@ author_profile: true
 
 ## Working Papers and Papers Under Review
 
+**How Citizens Evaluate Trade-offs between Descriptive and Partisan Representation**.
+
+> [Local PDF](../research/tradeoffs_paper.pdf) &bull; <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="tradeoffs" class="texter">An active debate in racial politics asks whether racial liberals and  minorities would trade off descriptive representation for partisan (or other substantive) representation when they come into conflict. A dominant line of research argues that descriptive representation is paramount given its symbolic importance. Another burgeoning line of research instead argues that partisanship matters more in contemporary American politics when party and race are correlated. I evaluate these competing arguments in the context of racial redistricting, specifically when creating Democratic majority-minority districts has the ``perverse effect'' of creating Republican districts and gerrymanders, which presents a trade-off between descriptive and partisan representation. Analyzing data from a survey experiment, I find that among those facing a trade-off, contra expectations in the literature, preferences for descriptive representation do not strictly dominate partisan preferences. I find no differences in trade-off evaluations between minorities and whites after controlling for subjects' baseline preferences. Most importantly, I find strong evidence that among those facing this trade-off, preferences for Democratic legislative control dominate preferences for marginal increases in descriptive representation. These findings corroborate arguments that partisan preferences are central to racial representation in modern-day American politics, and have policy implications for political and legal theories of how to advance racial representation in a racially polarized party system.</p>
+
 **Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** (with Andrew M. Guess and Macartan Humphreys)
 
 > Conditionally accepted at _Journal of Politics_
@@ -57,16 +63,12 @@ author_profile: true
 
 **When Does Increasing Mobilization Effort Increase Turnout? New Theory and Evidence from a Field Experiment on Reminder Calls** (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
 
-> Revision in preparation.
-
 > [Local PDF](../research/remindercalls_paper.pdf) &bull; [Online Appendix](../research/remindercalls_appx.pdf) &bull; <a onclick="openClose('remindercalls')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="remindercalls" class="texter">When does increasing mobilization effort increase turnout? Recent experiments find second calls containing a reminder to vote increase turnout beyond an initial contact. We argue existing studies cannot explain why reminder calls are effective because they test bundled treatments including a late mobilization attempt, a late mobilization attempt given earlier contact, and potentially activating reciprocity established in earlier contact. Moreover, existing work undertheorizes the causal role of reciprocity. We develop a reciprocity-based theory and design and analyze a two-round voter mobilization field experiment to test reciprocity as a mechanism explaining reminder call effects. Reminder calls increase turnout by 1.2 percentage points among subjects contacted in an earlier attempt. Enhancing reciprocity, operationalized as providing a reminder call offer during an early call, does not increase turnout beyond a second call. Lastly we fail to find heterogeneous effects of reminder calls by stated preference for a reminder or by stated vote intention.</p>
 
 
 **Publication Bias: Before and After ICMJE Registration Requirements** (with Grant M. Gordon and Macartan Humphreys)
-
-> Revision in preparation.
 
 > [Local PDF](../research/ps_paper.pdf) &bull; <a onclick="openClose('ps')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
