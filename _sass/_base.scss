@@ -13,11 +13,10 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.15;
+  line-height: 1.1;
   font-size: 15px;
   //font-size: $type-size-6;
   font-weight: 300;
-  margin-top: 2em;
   margin-bottom: 1.3em;
 
   &.overflow--hidden {
