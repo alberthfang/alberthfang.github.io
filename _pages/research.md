@@ -37,7 +37,7 @@ author_profile: true
 
 ## Working Papers and Papers Under Review
 
-**How Citizens Evaluate Trade-offs between Descriptive and Partisan Representation**.
+**How Citizens Evaluate Trade-offs between Descriptive and Partisan Representation**
 
 > [Local PDF](../research/tradeoffs_paper.pdf) &bull; <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
