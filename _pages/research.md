@@ -57,6 +57,14 @@ author_profile: true
 
 > &nbsp;
 
+**Do Minority Democrats Provide Better Minority Policy Representation than Non-Minority Democrats? A Design-Based Approach and Evidence from Latino Representation in the U.S. States**
+
+> <a onclick="openClose('latinord')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="latinord" class="texter">As racial and ethnic minorities have become more closely aligned with the Democratic Party and as Democrats become more racially liberal, what is the added value of descriptive representation for minority policy representation above and beyond electing a Democrat?  I argue that theory can yield different predictions of the direction of this effect even when holding district and electoral conditions and the party of the elected legislator constant. To test these competing predictions, I examine the case of Latino representation in U.S. state legislative districts. Applying a regression discontinuity design to an original database of election returns in 23 U.S. states combined with data on over 900,000 introduced bills, I assess the effect of electing a Latino Democrat instead of a non-Latino Democrat in safe Democratic districts on the roll call voting and bill sponsorship behavior of the elected legislator on Latino-interest bills. Legislators who just win in these district-elections exhibit similar roll call voting behavior and similar bill sponsorship on Latino-interest bills regardless of their ethnicity. I also find suggestive evidence that the marginal Latino Democrat elected to office from these districts sponsors more pro-Latino bills than the marginal non-Latino Democrat. These findings suggest that in a context where parties are ideologically and racially polarized such that Democratic representation is considered a proxy for racial representation, descriptive representation continues to matter to ensure that minority policy priorities are included on legislative agendas across the U.S. states.</p>
+
+> &nbsp;
+
 **The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Voter Mobilization Appeals** (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
 
 > **Invited to revise and resubmit at _American Politics Research_** &bull; [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posneg')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
@@ -80,6 +88,13 @@ author_profile: true
 > <p markdown="1" id="ps" class="texter">There is increasing support for the use of research registries in social sciences. One possible advantage of the use of a registry is that it would limit the scope for publication or analysis biases that result from selecting statistically significant results. However, to date, there is surprisingly little evidence for the claim that registration will reduce these biases. We look to historical data from medical publishing for evidence, comparing the distribution of p-values before and after the introduction of registration in prominent journals. We couple this analysis with a pre-analysis survey of medical experts and social scientists to assess their prior expectations of the impact of registration on medical publishing and to assess their perceptions on the specificity and sensitivity of our test of effects. Although there is evidence of publication bias in medical studies, our registered analyses uncovered no evidence that registration affected that bias, leading us to moderately downgrade our confidence in the curative effects of registration.</p>
 
 > &nbsp;
+
+**Testing Mechanisms in Experiments: A Principal Stratification Approach**
+
+> Presented at the 2016 APSA Annual Meeting &bull; <a onclick="openClose('pshetfx')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="pshetfx" class="texter">Social scientists often seek to evaluate claims about whether a treatment effect is "explained by" an intermediate or secondary post-treatment variable. Common identification strategies used in applied social experiments such as mechanism experiments and causal mediation analyses require identifying assumptions that are empirically untestable and often substantively implausible. In this research note, I present an alternative inferential approach for assessing mechanisms under minimal assumptions. Specifically, I provide an application of principal stratification, a well-established framework in the causal inference literature, to make inferences about the plausibility of hypothesized "mechanisms" by conceptualizing subjects as belonging to a principal stratum defined in terms of their potential response on a secondary post-treatment variable to all possible treatments; redefining inferential targets as principal causal effects, or average intent to treat effects by stratum; and assessing associations between principal causal effects and stratum membership. Implications for experimental design and analysis are discussed.</p>
+
 
 ## Other Writing
 
