@@ -91,7 +91,7 @@ author_profile: true
 
 **Testing Mechanisms in Experiments: A Principal Stratification Approach**
 
-> Presented at the 2016 APSA Annual Meeting &bull; <a onclick="openClose('pshetfx')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+> <a onclick="openClose('pshetfx')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="pshetfx" class="texter">Social scientists often seek to evaluate claims about whether a treatment effect is "explained by" an intermediate or secondary post-treatment variable. Common identification strategies used in applied social experiments such as mechanism experiments and causal mediation analyses require identifying assumptions that are empirically untestable and often substantively implausible. In this research note, I present an alternative inferential approach for assessing mechanisms under minimal assumptions. Specifically, I provide an application of principal stratification, a well-established framework in the causal inference literature, to make inferences about the plausibility of hypothesized "mechanisms" by conceptualizing subjects as belonging to a principal stratum defined in terms of their potential response on a secondary post-treatment variable to all possible treatments; redefining inferential targets as principal causal effects, or average intent to treat effects by stratum; and assessing associations between principal causal effects and stratum membership. Implications for experimental design and analysis are discussed.</p>
 
