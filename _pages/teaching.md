@@ -16,16 +16,16 @@ I am prepared to teach undergraduate and graduate level courses in American poli
 
 ## At Columbia University (as Teaching Fellow)
 <ul>
-<li> <b>Data Analysis and Statistics (undergraduate)</b><br /><i>Prof. John Huber, 2015</i>
+<li> <b>Data Analysis and Statistics (undergraduate)</b> -- <i>Prof. John Huber, 2015</i>
 <p class="notice--primary">This course provides a hands-on introduction to social science data analysis. The aims of the course are threefold: (1) to familiarize students with core concepts in statistics, such as sampling distributions and hypothesis testing, (2) to introduce students to software (Stata) that can be used to analyze data, and (3) to apply statistical techniques to political phenomena. Special emphasis will be placed on the interpretation and presentation of statistical results.</p>
 </li>
-<li> <b>Experimental Methods (Ph.D. level)</b><br /><i>Prof. Don Green, 2013</i>
+<li> <b>Experimental Methods (Ph.D. level)</b> -- <i>Prof. Don Green, 2013</i>
 <p class="notice--primary">In this course, we will discuss the logic of experimentation, its strengths and weaknesses compared to other methodologies, and the ways in which experimentation has been -- and could be -- used to investigate social phenomena. Students will learn how to interpret, design, and execute experiments. Special attention will be devoted to field experiments, or randomized trials conducted in real-world settings.</p>
 </li>
-<li> <b>Labor and American Politics (undergraduate)</b><br /><i>Prof. Dorian Warren, 2013</i>
+<li> <b>Labor and American Politics (undergraduate)</b> -- <i>Prof. Dorian Warren, 2013</i>
 <p class="notice--primary">This course examines the role and impact of organized labor in American politics. We will explore the history and development of the American labor movement; its significance as a central political actor in major social policy debates of the 20th century; as a mobilizing force in elections; its complex and often uneasy relationship with other political actors including business, urban political machines, and the civil rights movement; the differences between private and public sector unions; and contemporary dilemmas facing labor in a period of union decline and resurgence. More broadly, we will also explore issues of labor and immigration, globalization, inequality, and diversity as they shape issues of workers’ rights and the prospects for American unions.</p>
 </li>
-<li> <b>Introduction to American Politics (undergraduate)</b><br /><i>Prof. Justin Phillips, 2012</i>
+<li> <b>Introduction to American Politics (undergraduate)</b> -- <i>Prof. Justin Phillips, 2012</i>
 <p class="notice--primary">Introduction to national political institutions and processes. The presidency, Congress, the courts, political parties and elections, interest groups, and public opinion.</p>
 </li>
 </ul>
