@@ -48,7 +48,7 @@ _Selected Projects on Political Behavior and Political Psychology:_
 * The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment. (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon) _PLOS ONE_. 2017. 
 * The Generalizability of Social Pressure Effects on Turnout Across High-Salience Electoral Contexts: Field Experimental Evidence from 1.96 Million Citizens in 17 States. (with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch) _American Politics Research._ 45(4): 533-559. 2017.
 
-_Selected Projects in Methodology:_
+_Selected Projects on Political Methodology:_
 * Testing Mechanisms in Experiments: A Principal Stratification Approach
 * Two Inferential Pitfalls in the Analysis of Survey Experiments (with Gregory A. Huber)
 * Identifying the Effects of Migration Flows on Aggregate-Level Political Outcomes at the Destination: A Critical Review
