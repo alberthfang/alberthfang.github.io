@@ -46,7 +46,7 @@
         <li>
           <a href="mailto:{{ author.email }}">
             <meta itemprop="email" content="{{ author.email }}" />
-            <i class="fa fa-fw fa-envelope fa-2x" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+            <i class="fa fa-fw fa-envelope fa-lg" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
           </a>
         </li>
       {% endif %}
@@ -62,7 +62,7 @@
       {% if author.twitter %}
         <li>
           <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fa fa-fw fa-twitter fa-2x" aria-hidden="true"></i> Twitter
+            <i class="fa fa-fw fa-twitter fa-lg" aria-hidden="true"></i> Twitter
           </a>
         </li>
       {% endif %}
@@ -238,7 +238,7 @@
       {% if author.gscholar %}
         <li>
           <a href="https://scholar.google.com/citations?user={{ author.gscholar }}&hl=en" itemprop="sameAs">
-            <i class="ai ai-google-scholar ai-2x"></i> Google Scholar
+            <i class="ai ai-fw ai-google-scholar ai-lg"></i> Google Scholar
           </a>
         </li>
       {% endif %}
