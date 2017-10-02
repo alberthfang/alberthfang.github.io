@@ -7,7 +7,7 @@ author_profile: true
 
 I am a Postdoctoral Associate at the [Center for the Study of American Politics](http://csap.yale.edu/) and the [Institution for Social and Policy Studies](http://isps.yale.edu/) at [Yale University](http://www.yale.edu/). I received my PhD in political science from Columbia University in 2015.
 
-Using rich quantitative datasets combined with experimental and advanced statistical methods, my research focuses on how individuals' attitudes and behavior regarding racial politics and intergroup relations are shaped by their social identities and by their political and institutional contexts. 
+Using qualitatively-rich datasets combined with experimental and design-based methods for causal inference, my research focuses on how individuals' attitudes and behavior regarding racial politics and intergroup relations are shaped by their social identities and by their political and institutional contexts. 
 
 I explore these relationships in two domains central to modern-day American racial politics and public policy: (1) how descriptive representation distinctly matters, independently from partisan representation, as a strategy to advance racial representation when party and race are correlated, and (2) the political economy of race and discrimination, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. 
 
