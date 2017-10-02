@@ -9,7 +9,9 @@ I am a Postdoctoral Associate at the [Center for the Study of American Politics]
 
 Using qualitatively-rich datasets combined with experimental and design-based methods for causal inference, my research focuses on how individuals' attitudes and behavior regarding racial politics and intergroup relations are shaped by their social identities and by their political and institutional contexts. 
 
-I explore these relationships in two domains central to modern-day American racial politics and public policy: (1) _the politics of racial representation_, specifically how descriptive representation distinctly matters, independently from partisan representation, as a strategy to advance racial representation when party and race are correlated, and (2) _the political economy of race and discrimination_, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. In addition, I conduct research on political behavior, political psychology, the politics of public policy, and political methodology.
+I explore these relationships in two domains central to modern-day American racial politics and public policy: (1) **the politics of racial representation**, specifically how descriptive representation distinctly matters, independently from partisan representation, as a strategy to advance racial representation when party and race are correlated, and (2) **the political economy of race and discrimination**, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. 
+
+In addition, I conduct research on political behavior, political psychology, the politics of public policy, and political methodology.
 
 My work is published, forthcoming, or conditionally accepted at peer-reviewed outlets---including _The Journal of Politics_, _Political Psychology_, _Political Science Research and Methods_, _American Politics Research_, and _PLOS ONE_---and has been funded by the Russell Sage Foundation.
 
