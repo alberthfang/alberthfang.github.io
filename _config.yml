@@ -31,6 +31,7 @@ author:
   bio    : "Postdoctoral Associate <br> Yale University <br><br> 77 Prospect Street <br> PO Box 208209 <br> New Haven, CT 06520-8209"
   email  : "albert.fang@yale.edu" # optional
   twitter: _alfang
+  gscholar: "cwMkjMoAAAAJ"
 
 # Build settings
 markdown: kramdown
