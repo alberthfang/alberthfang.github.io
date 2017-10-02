@@ -29,8 +29,8 @@ Under what conditions are government and social interventions designed to reduce
 _Selected Projects:_
 * Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City (with Andrew Guess and Macartan Humphreys). Conditionally accepted at _The Journal of Politics_
 * Navigating Alternative Avenues of Recourse: How Political and Institutional Contexts Shape Behavioral Responses to Discrimination in the United States 
-* Gender Discrimination in Housing: Evidence from a Field Experiment (with Andrew Guess and Macartan Humphreys)
 * Coethnicity, Context, and Racially Discriminatory Behavior in Market Transactions (with Andrew Guess and Macartan Humphreys)
+* Gender Discrimination in Housing: Evidence from a Field Experiment (with Andrew Guess and Macartan Humphreys)
 * Selection into Racialized Information Environments and Racial Attitude Change (with Steven M. White) 
 
 **Experimental Research and Political Methodology**
