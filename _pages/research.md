@@ -7,7 +7,7 @@ author_profile: true
 
 My research examines how individuals' attitudes and behavior regarding racial politics and intergroup relations are shaped by their social identities and by their political and institutional contexts. 
 
-I explore these relationships in two domains central to modern-day American racial politics and public policy: (1) how descriptive representation distinctly matters as a strategy to advance racial representation in electoral and legislative contexts when party and race are correlated, and (2) the political economy of race and discrimination, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. 
+I explore these relationships in two domains central to modern-day American racial politics and public policy: (1) the politics of racial representation, specifically how descriptive representation distinctly matters as a strategy to advance racial representation in electoral and legislative contexts when party and race are correlated, and (2) the political economy of race and discrimination, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. 
 
 **The Politics of Racial Representation**
 
