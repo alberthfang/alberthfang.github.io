@@ -9,7 +9,7 @@ My research examines how individuals' attitudes and behavior regarding racial po
 
 I explore these relationships in two domains central to modern-day American racial politics and public policy: (1) how descriptive representation distinctly matters as a strategy to advance racial representation in electoral and legislative contexts when party and race are correlated, and (2) the political economy of race and discrimination, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. 
 
-**How Descriptive Representation Matters for Racial Representation**
+**The Politics of Racial Representation**
 
 Party and race are highly correlated in the modern-day American political system where the two major political parties are polarized both ideologically and racially. Scholars have shown that this holds not only for Blacks but increasingly also for Latinos and Asians as well. In this context, there is need to interrogate canonical theories about the political importance of descriptive representation as a strategy to advance racial representation. The first stream of my research program addresses this need by examining the conditions under which descriptive representation uniquely matters, independently from partisan representation, to advance the representational goals of underrepresented racial minority groups. This line of research contributes to two ongoing debates in the study of descriptive representation, specifically about its political demand and its policy effects.
 
