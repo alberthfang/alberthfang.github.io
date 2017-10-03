@@ -65,6 +65,14 @@ author_profile: true
 
 > &nbsp;
 
+**Who Deserves Disability Insurance? Understanding Perceptions of Deservingness and Social Insurance Attitudes in the United States**. (with Gregory A. Huber)
+
+> <a onclick="openClose('ssdideserve')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="ssdideserve" class="texter">Perceptions of the deservingness of policy beneficiaries shape attitudes toward redistributive programs. Less well understood is whether this heuristic also shapes attitudes toward social insurance programs, which occurs if individuals perceive the program to grant benefits to a concentrated segment of the population, even if it is not designed to do so. Using the case of Social Security Disability Insurance (SSDI), a program whose size and whose beneficiaries' deservingness have been politicized in recent decades, we evaluate this argument's validity and examine the contours of public support for SSDI. Analyzing survey data and data from two experiments conducted on the 2016 Cooperative Congressional Election Study, we show that attitudes toward SSDI and its beneficiaries are shaped by mass perceptions of the deservingness of policy beneficiaries and by argumentative appeals about the risk-pooling features of the program. We discuss substantive implications for the study of policy feedback for politicized social insurance programs.</p>
+
+> &nbsp;
+
 **The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Voter Mobilization Appeals** (with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
 
 > **Invited to revise and resubmit at _American Politics Research_** &bull; [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posneg')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
