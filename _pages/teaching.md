@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I am prepared to teach undergraduate and graduate level courses in American politics, political behavior, political psychology, political representation, racial and ethnic politics, public opinion, public policy, experimental methods, causal inference, quantitative methods, and research design. My teaching statement and a summary of my teaching evaluations are available upon request. 
-
 ## At Yale University (as Instructor)
 <ul>
 <li> <b>PLSC 230: Group Processes and Intergroup Relations in American Politics (undergraduate seminar)</b><br /><i>Scheduled for Spring 2018</i><br /><br />
