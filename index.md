@@ -5,16 +5,14 @@ permalink: /
 author_profile: true
 ---
 
-I am a Postdoctoral Associate at the [Center for the Study of American Politics](http://csap.yale.edu/) and the [Institution for Social and Policy Studies](http://isps.yale.edu/) at [Yale University](http://www.yale.edu/). I received my PhD in political science from Columbia University in 2015.
+I am a Postdoctoral Associate at the [Center for the Study of American Politics](http://csap.yale.edu/) and the [Institution for Social and Policy Studies](http://isps.yale.edu/) and a Lecturer in the Department of Political Science at [Yale University](http://www.yale.edu/).
 
-Using qualitatively-rich datasets combined with experimental and design-based methods for causal inference, my research focuses on how individuals' attitudes and behavior regarding racial politics and intergroup relations are shaped by their social identities and by their political and institutional contexts. 
+I study the politics of descriptive and symbolic representation, the political economy of discrimination, and intergroup cooperation and conflict in racial politics.
 
-I explore these relationships in two domains central to modern-day American racial politics and public policy:
-1. **the politics of racial representation**, specifically how descriptive representation distinctly matters, independently from partisan representation, as a strategy to advance racial representation when party and race are correlated, and
-2. **the political economy of race and discrimination**, specifically the conditions under which government and social interventions to reduce racial prejudice and discrimination are effective and why. 
+My research employs a combination of experimental, survey, and qualitative methods to investigate how social identities, institutional contexts, intergroup histories, and information environments affect political decision-making, preference formation, and behavior in these domains.
 
-In addition, I conduct research on political behavior, political psychology, the politics of public policy, and political methodology.
+My work is published, forthcoming, or conditionally accepted at peer-reviewed outlets, including _The Journal of Politics_, _Political Psychology_, _Political Science Research and Methods_, _American Politics Research_, and _PLoS ONE_. My work has been funded by the Russell Sage Foundation.
 
-My work is published, forthcoming, or conditionally accepted at peer-reviewed outlets---including _The Journal of Politics_, _Political Psychology_, _Political Science Research and Methods_, _American Politics Research_, and _PLOS ONE_---and has been funded by the Russell Sage Foundation.
+I received my PhD in political science from Columbia University in 2015. Before Columbia, I worked in social policy research analyzing the impact of anti-poverty programs targeting low-wage workers and communities.
 
-Prior to graduate school, I worked in social policy research analyzing the impact of anti-poverty programs.
+
