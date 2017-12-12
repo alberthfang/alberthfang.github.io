@@ -7,9 +7,9 @@ author_profile: true
 
 I am a Postdoctoral Associate at the [Center for the Study of American Politics](http://csap.yale.edu/) and the [Institution for Social and Policy Studies](http://isps.yale.edu/) and a Lecturer in the Department of Political Science at [Yale University](http://www.yale.edu/).
 
-I study the politics of descriptive and symbolic representation, the political economy of discrimination, and intergroup cooperation and conflict in racial politics.
+I study the politics of descriptive and symbolic representation, the political economy of discrimination and segregation, and intergroup cooperation and conflict in racial politics.
 
-My research employs a combination of experimental, survey, and qualitative methods to investigate how social identities, institutional contexts, intergroup histories, and information environments affect political decision-making, preference formation, and behavior in these domains.
+My research employs a combination of experimental, applied econometric, and qualitative methods to investigate how social identities, institutional contexts, group processes, and information environments affect political decision-making, preference formation, and behavior in these domains.
 
 My work is published, forthcoming, or conditionally accepted at peer-reviewed outlets, including _The Journal of Politics_, _Political Psychology_, _Political Science Research and Methods_, _American Politics Research_, and _PLoS ONE_. My work has been funded by the Russell Sage Foundation.
 
