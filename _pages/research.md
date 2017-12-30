@@ -7,6 +7,14 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
+**Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** (with Andrew M. Guess and Macartan Humphreys). Forthcoming at _Journal of Politics_.
+
+> [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
+
+> &nbsp;
+
 **Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. (with Alan S. Gerber and Gregory A. Huber). Forthcoming at _Political Psychology_.
 
 > [Journal PDF](https://doi.org/10.1111/pops.12446) &bull; [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
@@ -46,14 +54,6 @@ author_profile: true
 > [Local PDF](../research/tradeoffs_paper.pdf) &bull; <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="tradeoffs" class="texter">An active debate in racial politics asks whether racial liberals and  minorities would trade off descriptive representation for partisan (or other substantive) representation when they come into conflict. A dominant line of research argues that descriptive representation is paramount given its symbolic importance. Another burgeoning line of research instead argues that partisanship matters more in contemporary American politics when party and race are correlated. I evaluate these competing arguments in the context of racial redistricting, specifically when creating Democratic majority-minority districts has the ``perverse effect'' of creating Republican districts and gerrymanders, which presents a trade-off between descriptive and partisan representation. Analyzing data from a survey experiment, I find that among those facing a trade-off, contra expectations in the literature, preferences for descriptive representation do not strictly dominate partisan preferences. I find no differences in trade-off evaluations between minorities and whites after controlling for subjects' baseline preferences. Most importantly, I find strong evidence that among those facing this trade-off, preferences for Democratic legislative control dominate preferences for marginal increases in descriptive representation. These findings corroborate arguments that partisan preferences are central to racial representation in modern-day American politics, and have policy implications for political and legal theories of how to advance racial representation in a racially polarized party system.</p>
-
-> &nbsp;
-
-**Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** (with Andrew M. Guess and Macartan Humphreys)
-
-> **Conditionally accepted at _Journal of Politics_** &bull; [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
 
 > &nbsp;
 
