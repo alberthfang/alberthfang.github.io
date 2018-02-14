@@ -47,7 +47,7 @@ author_profile: true
 
 > &nbsp;
 
-## Working Papers and Manuscripts in Prep
+## Selected Working Papers and Manuscripts in Prep
 
 * The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns. (joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon; revised and resubmitted to _American Politics Research_).
 
