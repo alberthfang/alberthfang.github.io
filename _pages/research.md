@@ -9,7 +9,7 @@ author_profile: true
 
 **Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** Joint with Andrew M. Guess and Macartan Humphreys. Forthcoming, _The Journal of Politics_.
 
-> [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+> [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; [Replication Archive](http://dx.doi.org/10.7910/DVN/CF44OW) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>
 
@@ -46,6 +46,23 @@ author_profile: true
 > <p markdown="1" id="self" class="texter">Prior experiments show that campaign communications revealing subjects' past turnout and applying social pressure to vote (the "Self" treatment) increase turnout. However, nearly all existing studies are conducted in low salience elections, raising concerns that published findings are not generalizable and are an artifact of sample selection and publication bias. Addressing the need for further replication in high salience elections, we analyze a field experiment involving 1.96 million subjects where a nonpartisan campaign randomly sent Self treatment mailers, containing a subject's vote history and a comparison of each subject's history to their state median registrant's turnout behavior, in high salience elections across 17 states in 2014. Sending the Self mailer increases turnout by 0.7 points, or 2.2%. This effect is largely consistent across states, with somewhat larger effects observed in states with lower ex ante election salience. Our study provides precise evidence that social pressure effects on turnout are generalizable.</p>
 
 > &nbsp;
+
+## Working Papers and Manuscripts in Prep
+
+* The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns. (joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon; revised and resubmitted to _American Politics Research_).
+
+* How Citizens Evaluate Trade-offs between Descriptive and Partisan Representation
+
+* Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization
+
+* The Effect of Electing Minority Legislators on Substantive Minority Representation: New Evidence from Close U.S. State Legislative Elections
+
+* Who Deserves Disability Insurance? Understanding Perceptions of Deservingness and Social Insurance Attitudes in the United States  (joint with Gregory A. Huber)
+
+* When Does Increasing Mobilization Effort Increase Turnout? New Theory and Evidence from a Field Experiment on Reminder Calls (joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon)
+
+* Publication Bias: Before and After ICMJE Registration Requirement (joint with Grant M. Gordon and Macartan Humphreys)
+
 
 ## Other Writing
 
