@@ -7,7 +7,9 @@ author_profile: true
 
 ## Peer-Reviewed Publications
 
-**Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** (with Andrew M. Guess and Macartan Humphreys). Forthcoming at _Journal of Politics_.
+**Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** 
+(with Andrew M. Guess and Macartan Humphreys)
+_Journal of Politics_, forthcoming
 
 > [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
