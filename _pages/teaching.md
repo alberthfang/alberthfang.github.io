@@ -7,7 +7,7 @@ author_profile: true
 
 ## At Yale University (as Instructor)
 <ul>
-<li> <b>PLSC 230: Group Processes and Intergroup Relations in American Politics (undergraduate seminar)</b><br /><i>Spring 2018</i> &bull; <a href="PLSC230_S18_Syllabus.pdf">Syllabus</a><br /><br />
+<li> <a href="PLSC230_S18_Syllabus.pdf"><b>PLSC 230: Group Processes and Intergroup Relations in American Politics</b></a> (undergraduate seminar)<br /><i>Spring 2018</i><br /><br />
 
 This seminar considers the role of group processes and intergroup relations in American politics, and is organized into two parts. The first part of the seminar draws on scholarship from political science, psychology, economics, and sociology to explore foundational concepts, theories, and debates in the study of how group processes shape political identity, political attitudes, and political behavior. The second part of the seminar delves deeper into research and ongoing scholarly debates on how groups shape American politics in selected domains, including selective exposure, political discourse and deliberation, collective action, mass evaluation of political candidates and incumbents, political representation, and political and policy development.
 </li>
