@@ -17,7 +17,7 @@ author_profile: true
 
 **The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns** Joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. Forthcoming, _American Politics Research_.
 
-> <a onclick="openClose('posnegnorms')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+> [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posnegnorms')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="posnegnorms" class="texter">Are mobilization appeals that include information about descriptive voting norms more effective at increasing turnout when the descriptive norm is framed positively (by highlighting a referent’s desirable behavior and encouraging consistent behavior) instead of negatively (by highlighting a referent’s lack of desirable behavior as problematic but also encouraging that behavior)? Few published studies have experimentally assessed this question and yield mixed results. We address the need for additional replication by designing and analyzing data from two field experiments conducted across four states in the 2014 primary and general elections. We find no differential effects on turnout of framing descriptive voting norms positively or negatively. The results are not sensitive to election context, the mode of treatment delivery, or whether the descriptive norm appeals involve a group or self referent. Additional research is needed to understand the conditions under which positive versus negative descriptive norm framing has distinguishable effects on turnout.</p>
 
