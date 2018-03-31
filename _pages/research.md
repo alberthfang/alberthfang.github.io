@@ -15,6 +15,14 @@ author_profile: true
 
 > &nbsp;
 
+**The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns** Joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. Forthcoming, _American Politics Research_.
+
+> <a onclick="openClose('posnegnorms')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="posnegnorms" class="texter">Are mobilization appeals that include information about descriptive voting norms more effective at increasing turnout when the descriptive norm is framed positively (by highlighting a referent’s desirable behavior and encouraging consistent behavior) instead of negatively (by highlighting a referent’s lack of desirable behavior as problematic but also encouraging that behavior)? Few published studies have experimentally assessed this question and yield mixed results. We address the need for additional replication by designing and analyzing data from two field experiments conducted across four states in the 2014 primary and general elections. We find no differential effects on turnout of framing descriptive voting norms positively or negatively. The results are not sensitive to election context, the mode of treatment delivery, or whether the descriptive norm appeals involve a group or self referent. Additional research is needed to understand the conditions under which positive versus negative descriptive norm framing has distinguishable effects on turnout.</p>
+
+> &nbsp;
+
 **Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. Joint with Alan S. Gerber and Gregory A. Huber. Forthcoming, _Political Psychology_.
 
 > [Journal PDF](https://doi.org/10.1111/pops.12446) &bull; [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
@@ -48,8 +56,6 @@ author_profile: true
 > &nbsp;
 
 ## Selected Working Papers and Manuscripts in Prep
-
-* The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns. (joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon; revised and resubmitted to _American Politics Research_).
 
 * How Citizens Evaluate Trade-offs between Descriptive and Partisan Representation
 
