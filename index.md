@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-<font style="font-size: 20px;">
+<font style="font-size: 20px; line-height: 1.2em;">
 I am a Postdoctoral Associate at the Center for the Study of American Politics and the Institution for Social and Policy Studies and a Lecturer in the Department of Political Science at Yale University.<br /><br />
 
 My primary research interests are in political behavior; political psychology; race, ethnicity, and identity politics; and survey and experimental methods.<br /><br />
