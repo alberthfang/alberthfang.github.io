@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## At Yale University (as Instructor)
-* PLSC 230: Group Processes and Intergroup Relations in American Politics (undergraduate seminar) -- [Spring 2018](PLSC230_S18_Syllabus.pdf)
+* PLSC 230: Group Processes and Intergroup Relations in American Politics (undergraduate seminar) -- [Spring 2018](PLSC230_S18_Syllabus.pdf), planned for Spring 2019
+* PLSC 490: The Senior Colloquium (for year-long senior essay students) -- planned for Fall 2018
 
 ## At Columbia University (as Teaching Fellow)
 * Data Analysis and Statistics (undergraduate), Prof. John Huber, 2015
