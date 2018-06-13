@@ -23,9 +23,9 @@ author_profile: true
 
 **The Effect of Electing Minority Legislators on Substantive Minority Representation: New Evidence from Close U.S. State Legislative Elections**
 
-**Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States** Joint with Gregory A. Huber.
+**Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States** Joint with Gregory A. Huber. _(under review)_
 
-> _Under review_ &bull; <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+> <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="ssdi" class="texter">Perceptions of the deservingness of policy beneficiaries appear to shape attitudes toward redistributive programs, but whether this "deservingness heuristic" affects attitudes toward social insurance programs---that unlike entitlement programs pool risk among a contributing population and are relatively popular---is poorly understood. To explore this question, we examine the politics of Social Security Disability Insurance (SSDI), a program whose size and beneficiaries have become increasingly politicized. Analyzing novel survey data and two experimental studies conducted on national surveys, we find that people use informational cues about beneficiaries to infer the deservingness of SSDI recipients. Moreover, argumentative appeals about the program's size, design, and effects affect attitudes toward SSDI. These results challenge prior research arguing that people broadly perceive the sick as deserving of government care and that this heuristic "crowds out" other opinion-shaping factors. We discuss implications for the study of politicized social insurance programs.</p>
 
