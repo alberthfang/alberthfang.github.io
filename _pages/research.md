@@ -9,12 +9,6 @@ author_profile: true
 
 **How Racial Minorities Evaluate Trade-offs between Descriptive and Partisan Representation**
 
-> <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="tradeoffs" class="texter">We investigate how racial minorities navigate political trade-offs between conflicting racial and partisan group interests, which remain a central feature of racial politics despite the growing alignment between racial minorities and the Democratic Party. Examining the case of racial redistricting using original data on over 2,400 Blacks, Latinos, and Asian Americans, we designed a novel experiment to assess how racial minorities evaluate trade-offs between descriptive racial and Democratic representation that potentially arise when creating majority-minority districts. We find that racial minorities facing this trade-off perceive decreasing returns in the number of costly majority-minority districts and view Democratic legislative majorities as instrumental for producing welfare-improving policies. Our results inform broader questions about how individuals with multiple group-based interests make political choices that pit these interests in conflict, and provide specific insight into how racial minorities form political preferences for allocating institutional power across groups in a racially polarized party system.</p>
-
-<font size="-3">&nbsp;</font>
-
 **Electoral Competition and Racial Minorities' Demand for Accountable Symbolic Representatives**
 
 **Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
@@ -24,12 +18,6 @@ author_profile: true
 **The Effect of Electing Minority Legislators on Substantive Minority Representation: New Evidence from Close U.S. State Legislative Elections**
 
 **Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States** Joint with Gregory A. Huber. _(under review)_
-
-> <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="ssdi" class="texter">Perceptions of the deservingness of policy beneficiaries appear to shape attitudes toward redistributive programs, but whether this "deservingness heuristic" affects attitudes toward social insurance programs---that unlike entitlement programs pool risk among a contributing population and are relatively popular---is poorly understood. To explore this question, we examine the politics of Social Security Disability Insurance (SSDI), a program whose size and beneficiaries have become increasingly politicized. Analyzing novel survey data and two experimental studies conducted on national surveys, we find that people use informational cues about beneficiaries to infer the deservingness of SSDI recipients. Moreover, argumentative appeals about the program's size, design, and effects affect attitudes toward SSDI. These results challenge prior research arguing that people broadly perceive the sick as deserving of government care and that this heuristic "crowds out" other opinion-shaping factors. We discuss implications for the study of politicized social insurance programs.</p>
-
-<font size="-3">&nbsp;</font>
 
 **Perceptions of Program Abuse and Public Support for Social Insurance** Joint with Scott Bokemper and Gregory A. Huber
 
