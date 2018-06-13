@@ -17,19 +17,11 @@ author_profile: true
 
 **Electoral Competition and Racial Minorities' Demand for Accountable Symbolic Representatives**
 
-<font size="-3">&nbsp;</font>
-
 **Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
-
-<font size="-3">&nbsp;</font>
 
 **Understanding and Reducing Partisan Gaps in Legal Mobilization in Response to Sex Discrimination among Women**
 
-<font size="-3">&nbsp;</font>
-
 **The Effect of Electing Minority Legislators on Substantive Minority Representation: New Evidence from Close U.S. State Legislative Elections**
-
-<font size="-3">&nbsp;</font>
 
 **Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States** Joint with Gregory A. Huber.
 
