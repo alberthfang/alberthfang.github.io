@@ -15,7 +15,7 @@ author_profile: true
 **PLSC 490: The Senior Colloquium**
 > _Fall 2018_
 
-> Presentation and discussion of students' research proposals, with particular attention to choice of topic and research design. Each student frames the structure of the essay, chooses research methods, begins the research, and presents and discusses a draft of the introductory section of the essay.
+> Presentation and discussion of students' research proposals, with particular attention to choice of topic and research design. Each student frames the structure of the essay, chooses research methods, begins the research, and presents and discusses a draft of the introductory section of the essay. Enrollment limited to Political Science majors writing a yearlong senior essay.
 
 ## At Columbia University (as Teaching Fellow)
 
