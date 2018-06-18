@@ -19,6 +19,10 @@ author_profile: true
 
 **Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States** Joint with Gregory A. Huber. _(under review)_
 
+> [Local PDF](../research/ssdi_paper.pdf) &bull; [Online Appendix](../research/ssdi_appx.pdf) &bull; <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="ssdi" class="texter">Perceptions of the deservingness of policy beneficiaries appear to shape attitudes toward redistributive programs, but whether this "deservingness heuristic" affects attitudes toward social insurance programs -- that unlike entitlement programs pool risk among a contributing population and are relatively popular -- is poorly understood. To explore this question, we examine the politics of Social Security Disability Insurance (SSDI), a program whose size and beneficiaries have become increasingly politicized. Analyzing novel survey data and two experimental studies conducted on national surveys, we find that people use informational cues about beneficiaries to infer the deservingness of SSDI recipients. Moreover, argumentative appeals about the program's size, design, and effects affect attitudes toward SSDI. These results challenge prior research arguing that people broadly perceive the sick as deserving of government care and that this heuristic "crowds out" other opinion-shaping factors. We discuss implications for the study of politicized social insurance programs.</p>
+
 **Perceptions of Program Abuse and Public Support for Social Insurance** Joint with Scott Bokemper and Gregory A. Huber
 
 
