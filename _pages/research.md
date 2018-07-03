@@ -25,7 +25,14 @@ author_profile: true
 
 <font size="-3">&nbsp;</font>
 
-**Perceptions of Program Abuse and Public Support for Social Insurance** Joint with Scott Bokemper and Gregory A. Huber
+**Perceptions of Program Abuse and Support for Social Insurance** Joint with Scott Bokemper and Gregory A. Huber. _(under review)_
+
+> [Local PDF](../research/ssdilab_paper.pdf) &bull; [Online Appendix](../research/ssdilab_appx.pdf) &bull; <a onclick="openClose('ssdilab')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="ssdilab" class="texter">Do perceptions of abuse in public social insurance programs undercut program support? Answering this causal question is difficult because perceptions of program abuse can arise from multiple potential causes including prior opposition to the program. Examining the case of disability insurance, we circumvent these challenges using multiple laboratory experiments involving a novel simulated political economy to study the interplay between labor market shocks, program abuse, perceptions of abuse, and preferences for benefit levels. We find that negative labor market shocks that preclude injured workers from returning to work at their pre-injury wage upon recovery increases the probability of staying on disability instead of working at a lower-wage job despite being healthy. Further, when benefits are costly, learning about program abuse causes workers unaffected by labor market shocks to prefer lower benefit levels. Our results demonstrate an important channel by which shocks to market employment diminish support for government social insurance.</p>
+
+<font size="-3">&nbsp;</font>
+
 
 ## Peer-Reviewed Publications
 
