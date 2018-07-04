@@ -9,6 +9,12 @@ author_profile: true
 
 **How Racial Minorities Evaluate Trade-offs between Descriptive and Partisan Representation**
 
+> <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="tradeoffs" class="texter">We investigate how racial minorities navigate political trade-offs between conflicting racial and partisan group interests, which remain a central feature of racial politics despite the growing alignment between racial minorities and the Democratic Party. Examining the case of racial redistricting using original data on over 2,400 Blacks, Latinos, and Asian Americans, we designed a novel experiment to assess how racial minorities evaluate trade-offs between descriptive racial and Democratic representation that potentially arise when creating majority-minority districts. We find that racial minorities facing this trade-off perceive decreasing returns in the number of costly majority-minority districts and view Democratic legislative majorities as instrumental for producing welfare-improving policies. Our results inform broader questions about how individuals with multiple group-based interests make political choices that pit these interests in conflict, and provide specific insight into how racial minorities form preferences about political institutions in a racially polarized party system.</p>
+
+<font size="-3">&nbsp;</font>
+
 **Electoral Competition and Racial Minorities' Demand for Accountable Symbolic Representatives**
 
 **Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
