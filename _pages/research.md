@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Current Research
+## Working Papers and Manuscripts in Preparation
 
 **How Racial Minorities Evaluate Trade-offs between Descriptive and Partisan Representation**
 
@@ -31,7 +31,7 @@ author_profile: true
 
 <font size="-3">&nbsp;</font>
 
-**Perceptions of Program Abuse and Support for Social Insurance** Joint with Scott Bokemper and Gregory A. Huber. _(under review)_
+**Perceptions of Program Abuse and Support for Social Insurance** Joint with Scott E. Bokemper and Gregory A. Huber. _(under review)_
 
 > [Local PDF](../research/ssdilab_paper.pdf) &bull; [Online Appendix](../research/ssdilab_appx.pdf) &bull; <a onclick="openClose('ssdilab')" style="cursor: pointer;">Abstract <i class="fa fa-plus-square" aria-hidden="true"></i></a>
 
