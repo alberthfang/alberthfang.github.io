@@ -112,7 +112,8 @@ $dkblue-link-color          : #0E467D !default;
 $link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%) !default;
 $link-color-visited         : mix(#fff, $link-color, 25%) !default;
-$masthead-link-color        : $primary-color !default;
+/* $masthead-link-color        : $primary-color !default; */
+$masthead-link-color        : $new-link-color !default;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
 
 
