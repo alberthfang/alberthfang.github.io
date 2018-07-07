@@ -43,6 +43,7 @@
   font-family: $sans-serif-narrow;
 /*  font-size: 28px; */
   font-size: 20px;
+  text-transform: uppercase;
   color: $new-link-color;
   -webkit-box-align: center;
         align-items: center;
@@ -73,7 +74,8 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  font-size: 20px;
+  /* font-size: 20px; */
+  font-size: 17px;
 
   &--lg {
     padding-right: 2em;
