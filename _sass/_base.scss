@@ -137,18 +137,18 @@ blockquote {
 
 a {
 
-  color: $google-link-color;
+  color: $new-link-color;
 
 
   &:focus {
     @extend %tab-focus;
-    color: $google-link-color;
+    color: $new-link-color;
   }
 
   &:hover,
   &:active {
     outline: 0;
-    color: $google-link-color;
+    color: $new-link-color;
   }
 }
 
