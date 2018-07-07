@@ -41,10 +41,13 @@
   padding: 0.5rem 0;
   align-self: stretch;
   font-family: $sans-serif-narrow;
-  font-size: 28px;
+/*  font-size: 28px; */
+  font-size: 25px;
+  color: $new-link-color;
   -webkit-box-align: center;
         align-items: center;
-  font-weight: 700;
+/*  font-weight: 700; */
+  font-weight: 400;
   z-index: 20;
 }
 
