@@ -142,13 +142,13 @@ a {
 
   &:focus {
     @extend %tab-focus;
-    color: $new-link-color;
+    color: $darker-gray;
   }
 
   &:hover,
   &:active {
-    outline: 0;
-    color: $new-link-color;
+  /*  outline: 0; */
+    color: $darker-gray;
   }
 }
 
