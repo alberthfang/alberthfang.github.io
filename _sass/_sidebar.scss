@@ -227,7 +227,8 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      color: $new-link-color;
+      text-decoration: none;
     }
   }
 }
