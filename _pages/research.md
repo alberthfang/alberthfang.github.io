@@ -23,7 +23,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. Joint with Alan S. Gerber and Gregory A. Huber. Forthcoming, _Political Psychology_.
+**Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. Joint with Alan S. Gerber and Gregory A. Huber. 2018. _Political Psychology_. 39(4): 925-938
 
 > [Journal PDF](https://doi.org/10.1111/pops.12446) &bull; [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -92,6 +92,8 @@ author_profile: true
 > [Local PDF](../research/ssdilab_paper.pdf) &bull; [Online Appendix](../research/ssdilab_appx.pdf) &bull; <a onclick="openClose('ssdilab')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="ssdilab" class="texter">Do perceptions of abuse in public social insurance programs undercut program support? Answering this causal question is difficult because perceptions of program abuse can arise from multiple potential causes including prior opposition to the program. Examining the case of disability insurance, we circumvent these challenges using multiple laboratory experiments involving a novel simulated political economy to study the interplay between labor market shocks, program abuse, perceptions of abuse, and preferences for benefit levels. We find that negative labor market shocks that preclude injured workers from returning to work at their pre-injury wage upon recovery increases the probability of staying on disability instead of working at a lower-wage job despite being healthy. Further, when benefits are costly, learning about program abuse causes workers unaffected by labor market shocks to prefer lower benefit levels. Our results demonstrate an important channel by which shocks to market employment diminish support for government social insurance.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
 **The Effect of Electing Minority Legislators on Substantive Minority Representation: New Evidence from Close U.S. State Legislative Elections**
 
