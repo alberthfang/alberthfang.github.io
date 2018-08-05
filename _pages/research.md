@@ -13,7 +13,7 @@ author_profile: true
 
 > <p markdown="1" id="housing" class="texter">Racial discrimination persists despite established anti-discrimination laws. A common government strategy to deter discrimination is to publicize the law and communicate potential penalties for violations. We study this strategy by coupling an audit experiment with a randomized intervention involving nearly 700 landlords in New York City and report the first causal estimates of the effect on rental discrimination against Blacks and Hispanics of a targeted government messaging campaign. We uncover discrimination levels higher than prior estimates indicate, especially against Hispanics, who are approximately six percentage points less likely to receive callbacks and offers than whites. We find suggestive evidence that government messaging can reduce discrimination against Hispanics, but not against Blacks. The findings confirm discrimination’s persistence and suggest that government messaging can address it in some settings, but more work is needed to understand the contexts under which such appeals are most effective.</p>{: .notice--primary}
 
-<font size="-6"></font>
+<font size="-6">&nbsp;</font>
 
 **The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns** Joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. Forthcoming, _American Politics Research_.
 
