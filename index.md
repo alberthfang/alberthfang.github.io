@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a postdoctoral associate in the Center for the Study of American Politics at Yale University, where I conduct research at the intersection of political psychology, political behavior, identity politics (race, ethnicity, and gender), and the politics of public policy and law.
+I am a postdoctoral associate in the [Center for the Study of American Politics](https://csap.yale.edu/) at [Yale University](https://www.yale.edu/), where I conduct research at the intersection of political psychology, political behavior, identity politics (race, ethnicity, and gender), and the politics of public policy and law.
 
 I study identity in the context of representation and accountability. My research agenda focuses on how members of underrepresented groups (such as racial minorities and women) form political preferences and how public policies and elite behavior affect the welfare of these groups. To investigate these questions, my work combines innovative research designs with the collection of large, original datasets measuring the lived experiences of these groups.
 
@@ -18,4 +18,4 @@ Other current and recent projects examine:
 
 My work is published or forthcoming in peer-reviewed journals including _The Journal of Politics_, _Political Psychology_, _Political Science Research and Methods_, and _American Politics Research_, and has been funded by the Russell Sage Foundation as well as internal research grants at Yale and Columbia.
 
-I received my Ph.D. in Political Science from Columbia University and a B.A. in Political Science from the University of California, Berkeley.
+I received my Ph.D. in Political Science from [Columbia University](https://polisci.columbia.edu/) and a B.A. in Political Science from the [University of California, Berkeley](https://www.berkeley.edu/).
