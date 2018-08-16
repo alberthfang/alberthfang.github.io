@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-**Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City** Joint with Andrew M. Guess and Macartan Humphreys. Forthcoming, _The Journal of Politics_.
+**Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City**  with Andrew M. Guess and Macartan Humphreys. Forthcoming, _The Journal of Politics_.
 
 > [Local PDF](../research/housing_paper.pdf) &bull; [Online Appendix](../research/housing_appx.pdf) &bull; [Replication Archive](http://dx.doi.org/10.7910/DVN/CF44OW) &bull; <a onclick="openClose('housing')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -15,7 +15,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns** Joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. Forthcoming, _American Politics Research_.
+**The Comparative Effectiveness on Turnout of Positively versus Negatively Framed Descriptive Norms in Mobilization Campaigns**  with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. Forthcoming, _American Politics Research_.
 
 > [Journal PDF](https://doi.org/10.1177/1532673X18772276) &bull; [Local PDF](../research/posneg_paper.pdf) &bull; [Online Appendix](../research/posneg_appx.pdf) &bull; <a onclick="openClose('posnegnorms')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -23,7 +23,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**. Joint with Alan S. Gerber and Gregory A. Huber. 2018. _Political Psychology_. 39(4): 925-938
+**Do Subtle Linguistic Interventions Priming a Social Identity as a Voter Have Outsized Effects on Voter Turnout? Evidence from a New Replication Experiment**.  with Alan S. Gerber and Gregory A. Huber. 2018. _Political Psychology_. 39(4): 925-938
 
 > [Journal PDF](https://doi.org/10.1111/pops.12446) &bull; [Local PDF](../research/slc_paper.pdf) &bull; [Online Appendix](../research/slc_appx.pdf) &bull; <a onclick="openClose('slc')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -31,7 +31,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**Nongovernmental Campaign Communication Providing Ballot Secrecy Assurances Increases Turnout: Results from Two Large-Scale Experiments**. Joint with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch. 2018. _Political Science Research and Methods_. 6(3): 613-624
+**Nongovernmental Campaign Communication Providing Ballot Secrecy Assurances Increases Turnout: Results from Two Large-Scale Experiments**.  with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch. 2018. _Political Science Research and Methods_. 6(3): 613-624
 
 > [Journal PDF](https://doi.org/10.1017/psrm.2017.16) &bull; [Local PDF](../research/bsec_paper.pdf) &bull; [Online Appendix](../research/bsec_appx.pdf) &bull; [Replication Archive](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D8WD6K) &bull; <a onclick="openClose('bsec')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -39,7 +39,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment**. Joint with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. 2017. _PLOS ONE_. 12(8): e0182199.
+**The Effect on Turnout of Campaign Mobilization Messages Addressing Ballot Secrecy Concerns: A Replication Experiment**.  with Alan S. Gerber, Gregory A. Huber, and Catlan E. Reardon. 2017. _PLOS ONE_. 12(8): e0182199.
 
 > [Journal PDF](https://doi.org/10.1371/journal.pone.0182199) &bull; [Local PDF](../research/msbs_paper.pdf) &bull; [Online Appendix](../research/msbs_appx.pdf) &bull; [Replication Archive](http://dx.doi.org/10.7910/DVN/ZJINIB) &bull; <a onclick="openClose('msbs')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -47,7 +47,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**The Generalizability of Social Pressure Effects on Turnout Across High-Salience Electoral Contexts: Field Experimental Evidence from 1.96 Million Citizens in 17 States**. Joint with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch. 2017. _American Politics Research_. 45(4): 533-559.
+**The Generalizability of Social Pressure Effects on Turnout Across High-Salience Electoral Contexts: Field Experimental Evidence from 1.96 Million Citizens in 17 States**.  with Alan S. Gerber, Gregory A. Huber, and Andrew Gooch. 2017. _American Politics Research_. 45(4): 533-559.
 
 > [Journal PDF](https://doi.org/10.1177/1532673X16686556) &bull; [Local PDF with Appendix](../research/self_paper.pdf) &bull; [Replication Archive](../research/self_replication.7z) &bull; <a onclick="openClose('self')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -79,7 +79,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States** Joint with Gregory A. Huber. _(under review)_
+**Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States**  with Gregory A. Huber. _(under review)_
 
 > [Local PDF](../research/ssdi_paper.pdf) &bull; [Online Appendix](../research/ssdi_appx.pdf) &bull; <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
@@ -87,7 +87,7 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
-**Perceptions of Program Abuse and Support for Social Insurance** Joint with Scott E. Bokemper and Gregory A. Huber. _(under review)_
+**Perceptions of Program Abuse and Support for Social Insurance**  with Scott E. Bokemper and Gregory A. Huber. _(under review)_
 
 > [Local PDF](../research/ssdilab_paper.pdf) &bull; [Online Appendix](../research/ssdilab_appx.pdf) &bull; <a onclick="openClose('ssdilab')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
