@@ -16,7 +16,7 @@ Other current and recent projects examine:
 <ul>
 <li>how minorities navigate similar tensions between their racial and partisan interests across a range of domains and implications for minority representation and party development; </li>
 <li>how norm and informational interventions by states, political elites, and social campaigns affect political attitudes and behavior toward marginalized groups; and</li>
-<li>how expectations of bias shape the political preferences and behavior of marginalized groups across electoral and bureaucratic settings.</li>
+<li>how expectations of bias shape the political preferences and behavior of marginalized groups across electoral, bureaucratic, and legal settings.</li>
 </ul>
 
 My work is published or forthcoming in peer-reviewed journals including <i>The Journal of Politics</i>, <i>Political Psychology</i>, <i>Political Science Research and Methods</i>, and <i>American Politics Research</i>, and has been funded by the Russell Sage Foundation as well as internal research grants at Yale and Columbia.<br /><br />
