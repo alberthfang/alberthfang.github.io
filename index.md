@@ -12,7 +12,7 @@ I study identity in the context of representation and accountability. My researc
 My job market paper uses a novel experimental design and data from large, nationally representative samples of Black, Latino, and Asian Americans to examine how cross-pressured racial minorities with overlapping racial and partisan identities navigate trade-offs between their partisan and racial group interests to form preferences about how to allocate institutional power across racial and partisan groups in the redistricting process.
 
 Other current and recent projects examine:
-* how minorities navigate similar tensions between their racial and partisan interests across a range of domains and implications for minority representation and party development;
+* how minorities navigate similar tensions between their racial and partisan interests across a range of domains and broader implications for minority representation and party development;
 * how norm and informational interventions by states, political elites, and social campaigns affect political attitudes and behavior toward marginalized groups; and
 * how expectations of bias shape the political preferences and behavior of marginalized groups across electoral, bureaucratic, and legal settings.
 
