@@ -10,7 +10,7 @@ I am a postdoctoral associate in the Center for the Study of American Politics a
 
 I study identity in the context of representation and accountability. My research agenda focuses on how members of underrepresented groups (such as racial minorities and women) form political preferences and how public policies and elite behavior affect the welfare of these groups. To investigate these questions, my work combines innovative research designs with the collection of large, original datasets measuring the lived experiences of these groups.<br /><br /> 
 
-My job market paper uses a novel experimental design and data from over 2,400 Black, Latino, and Asian Americans to examine how cross-pressured racial minorities with overlapping racial and partisan identities navigate trade-offs between their partisan and racial group interests to form preferences about how to allocate institutional power across racial and partisan groups in the redistricting process.<br /><br />
+My job market paper uses a novel experimental design and data from large, nationally representative samples of Black, Latino, and Asian Americans to examine how cross-pressured racial minorities with overlapping racial and partisan identities navigate trade-offs between their partisan and racial group interests to form preferences about how to allocate institutional power across racial and partisan groups in the redistricting process.<br /><br />
 
 Other current and recent projects examine:
 <ul>
