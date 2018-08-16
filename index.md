@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <font style="font-size: 16px; line-height: 1.4em;">
-I am a postdoctoral associate in the Center for the Study of American Politics at Yale University, where I conduct research in political psychology, political behavior, and the politics of race, ethnicity, and identity.<br /><br />
+I am a postdoctoral associate in the Center for the Study of American Politics at Yale University, where I conduct research at the intersection of political psychology, political behavior, identity politics (race, ethnicity, and gender), and the politics of public policy and law.<br /><br />
 
 I study identity in the context of representation and accountability. My research agenda focuses on how members of underrepresented groups (such as racial minorities and women) form political preferences and how public policies and elite behavior affect the welfare of these groups. To investigate these questions, my work combines innovative research designs with the collection of large, original datasets measuring the lived experiences of these groups.<br /><br /> 
 
