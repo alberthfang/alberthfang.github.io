@@ -5,6 +5,48 @@ permalink: /research/
 author_profile: true
 ---
 
+## Working Papers and Manuscripts in Preparation
+
+**How Racial Minorities Evaluate Trade-offs between Descriptive and Partisan Representation**
+
+> [Local PDF](../research/tradeoffs_paper.pdf) &bull; <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="tradeoffs" class="texter">Despite the alignment between racial minorities and the Democratic Party, racial minorities often confront tensions between their racial and partisan group interests. How do cross-pressured minorities navigate such trade-offs? Examining the case of racial redistricting using original data from a nationally representative survey of over 2,400 Blacks, Latinos, and Asian Americans, I designed a novel experiment to assess how minorities evaluate trade-offs between their preferences for descriptive racial and Democratic representation that potentially arise when creating majority-minority districts. I find that cross-pressured minorities perceive decreasing returns in the number of costly majority-minority districts and instrumentally view Democratic (Republican) legislative majorities as beneficial (harmful) to their welfare. These results inform broader questions about how individuals with multiple political group identities evaluate trade-offs involving competing group interests, and shed light on how cross-pressured minorities navigate conflicts between their racial and partisan interests to form political preferences in a racially polarized party system.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
+**Electoral Competition and Racial Minorities' Demand for Accountable Symbolic Representatives**
+
+> <a onclick="openClose('symbacc')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="symbacc" class="texter">Do racial minorities punish co-racial representatives for bad behavior in office? Analyzing an original experiment conducted with over 1,600 Black, Latinx, and Asian American subjects, I find that racial minorities want their unchallenged descriptive representative to face electoral competition from co-partisan primary challengers when she engages in bad behavior. I also find that when a descriptive representative faces a co-partisan primary challenger, minority voters' in-group bias for their co-racial representative is effectively erased when she engages in bad behavior. These results challenge conventional accounts of minority voters as blind cheerleaders for co-racial politicians and illuminate the conditions under which minority voters demand accountability from their symbolic representatives.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
+**Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
+
+> <a onclick="openClose('pbb')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="pbb" class="texter">Do expectations of bureaucratic bias affect whether citizens decide to make claims on the state? Building on the notion of racialized and gendered partisanship, I argue that partisans employ the party controlling the bureaucracy as a key heuristic to infer the degree of group-specific bias in government, and that these inferences affect their likelihood of making claims on the state in raced and gendered policy domains. I test this theory in the context of minority decision-making about civil rights mobilization conditional on experiencing discrimination. Analyzing data from a novel survey experiment fielded on a large sample of over 4,000 subjects, including oversamples of Blacks, Latinxs, Asian Americans, and women, I find that racial minorities and women who are Democrats employ such a heuristic and state they are less likely to file formal racial and sex discrimination complaints, respectively, with a governmental fair employment agency when the agency is controlled by Republicans instead of Democrats. Moreover, white Republicans and Republican men are more likely to claim reverse racism and sexism and state they are more likely to file complaints when the agency is under Republican control. These results shed new light on the channels through which partisan and social identities interact with partisan contexts to affect the politics of enforcing anti-discrimination laws and citizen-state interactions.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
+**Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States**  with Gregory A. Huber. _(under review)_
+
+> [Local PDF](../research/ssdi_paper.pdf) &bull; [Online Appendix](../research/ssdi_appx.pdf) &bull; <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="ssdi" class="texter">Concerns about the deservingness of policy beneficiaries appear to explain skepticism about redistributive social assistance programs. Many social insurance programs, despite requiring beneficiaries to pay in ahead of time, require discretionary evaluations of the merits of claims for benefits. Do perceptions of deservingness also affect attitudes toward these discretionary social insurance programs? Examining the politics of Social Security Disability Insurance (SSDI), a program whose size and beneficiaries have been increasingly politicized, we investigate these questions by analyzing novel survey data and two experiments conducted on national surveys. We show that people use information about a beneficiary's eligibility-determining medical impairment as a cue to infer their deservingness. Moreover, support for SSDI is responsive to policy arguments emphasizing the program's social insurance features and potential abuse. Our findings demonstrate important psychological processes relevant to the contemporary politicization of social insurance programs involving discretionary eligibility rules.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
+**Perceptions of Program Abuse and Support for Social Insurance**  with Scott E. Bokemper and Gregory A. Huber. _(under review)_
+
+> [Local PDF](../research/ssdilab_paper.pdf) &bull; [Online Appendix](../research/ssdilab_appx.pdf) &bull; <a onclick="openClose('ssdilab')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="ssdilab" class="texter">Do perceptions of abuse in public social insurance programs undercut program support? Answering this causal question is difficult because perceptions of program abuse can arise from multiple potential causes including prior opposition to the program. Examining the case of disability insurance, we circumvent these challenges using multiple laboratory experiments involving a novel simulated political economy to study the interplay between labor market shocks, program abuse, perceptions of abuse, and preferences for benefit levels. We find that negative labor market shocks that preclude injured workers from returning to work at their pre-injury wage upon recovery increases the probability of staying on disability instead of working at a lower-wage job despite being healthy. Further, when benefits are costly, learning about program abuse causes workers unaffected by labor market shocks to prefer lower benefit levels. Our results demonstrate an important channel by which shocks to market employment diminish support for government social insurance.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
 ## Publications
 
 **Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City**  with Andrew M. Guess and Macartan Humphreys. Forthcoming, _The Journal of Politics_.
@@ -52,50 +94,6 @@ author_profile: true
 > [Journal PDF](https://doi.org/10.1177/1532673X16686556) &bull; [Local PDF](../research/self_paper.pdf) &bull; [Online Appendix](../research/self_appx.pdf) &bull; [Replication Archive](../research/self_replication.7z) &bull; <a onclick="openClose('self')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="self" class="texter">Prior experiments show that campaign communications revealing subjects' past turnout and applying social pressure to vote (the "Self" treatment) increase turnout. However, nearly all existing studies are conducted in low salience elections, raising concerns that published findings are not generalizable and are an artifact of sample selection and publication bias. Addressing the need for further replication in high salience elections, we analyze a field experiment involving 1.96 million subjects where a nonpartisan campaign randomly sent Self treatment mailers, containing a subject's vote history and a comparison of each subject's history to their state median registrant's turnout behavior, in high salience elections across 17 states in 2014. Sending the Self mailer increases turnout by 0.7 points, or 2.2%. This effect is largely consistent across states, with somewhat larger effects observed in states with lower ex ante election salience. Our study provides precise evidence that social pressure effects on turnout are generalizable.</p>{: .notice--primary}
-
-## Working Papers and Manuscripts in Preparation
-
-**How Racial Minorities Evaluate Trade-offs between Descriptive and Partisan Representation**
-
-> <a onclick="openClose('tradeoffs')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="tradeoffs" class="texter">Despite the alignment between racial minorities and the Democratic Party, racial minorities often confront tensions between their racial and partisan group interests. How do cross-pressured minorities navigate such trade-offs? Examining the case of racial redistricting using original data from a nationally representative survey of over 2,400 Blacks, Latinos, and Asian Americans, I designed a novel experiment to assess how minorities evaluate trade-offs between their preferences for descriptive racial and Democratic representation that potentially arise when creating majority-minority districts. I find that cross-pressured minorities perceive decreasing returns in the number of costly majority-minority districts and instrumentally view Democratic (Republican) legislative majorities as beneficial (harmful) to their welfare. These results inform broader questions about how individuals with multiple political group identities evaluate trade-offs involving competing group interests, and shed light on how cross-pressured minorities navigate conflicts between their racial and partisan interests to form political preferences in a racially polarized party system.</p>{: .notice--primary}
-
-<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
-
-**Electoral Competition and Racial Minorities' Demand for Accountable Symbolic Representatives**
-
-> <a onclick="openClose('symbacc')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="symbacc" class="texter">Do racial minorities punish co-racial representatives for bad behavior in office? Analyzing an original experiment conducted with over 1,600 Black, Latinx, and Asian American subjects, I find that racial minorities want their unchallenged descriptive representative to face electoral competition from co-partisan primary challengers when she engages in bad behavior. I also find that when a descriptive representative faces a co-partisan primary challenger, minority voters' in-group bias for their co-racial representative is effectively erased when she engages in bad behavior. These results challenge conventional accounts of minority voters as blind cheerleaders for co-racial politicians and illuminate the conditions under which minority voters demand accountability from their symbolic representatives.</p>{: .notice--primary}
-
-<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
-
-**Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
-
-> <a onclick="openClose('pbb')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="pbb" class="texter">Do expectations of bureaucratic bias affect whether citizens decide to make claims on the state? Building on the notion of racialized and gendered partisanship, I argue that partisans employ the party controlling the bureaucracy as a key heuristic to infer the degree of group-specific bias in government, and that these inferences affect their likelihood of making claims on the state in raced and gendered policy domains. I test this theory in the context of minority decision-making about civil rights mobilization conditional on experiencing discrimination. Analyzing data from a novel survey experiment fielded on a large sample of over 4,000 subjects, including oversamples of Blacks, Latinxs, Asian Americans, and women, I find that racial minorities and women who are Democrats employ such a heuristic and state they are less likely to file formal racial and sex discrimination complaints, respectively, with a governmental fair employment agency when the agency is controlled by Republicans instead of Democrats. Moreover, white Republicans and Republican men are more likely to claim reverse racism and sexism and state they are more likely to file complaints when the agency is under Republican control. These results shed new light on the channels through which partisan and social identities interact with partisan contexts to affect the politics of enforcing anti-discrimination laws and citizen-state interactions.</p>{: .notice--primary}
-
-<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
-
-**Perceptions of Deservingness and the Politicization of Social Insurance: Evidence from Disability Insurance in the United States**  with Gregory A. Huber. _(under review)_
-
-> [Local PDF](../research/ssdi_paper.pdf) &bull; [Online Appendix](../research/ssdi_appx.pdf) &bull; <a onclick="openClose('ssdi')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="ssdi" class="texter">Concerns about the deservingness of policy beneficiaries appear to explain skepticism about redistributive social assistance programs. Many social insurance programs, despite requiring beneficiaries to pay in ahead of time, require discretionary evaluations of the merits of claims for benefits. Do perceptions of deservingness also affect attitudes toward these discretionary social insurance programs? Examining the politics of Social Security Disability Insurance (SSDI), a program whose size and beneficiaries have been increasingly politicized, we investigate these questions by analyzing novel survey data and two experiments conducted on national surveys. We show that people use information about a beneficiary's eligibility-determining medical impairment as a cue to infer their deservingness. Moreover, support for SSDI is responsive to policy arguments emphasizing the program's social insurance features and potential abuse. Our findings demonstrate important psychological processes relevant to the contemporary politicization of social insurance programs involving discretionary eligibility rules.</p>{: .notice--primary}
-
-<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
-
-**Perceptions of Program Abuse and Support for Social Insurance**  with Scott E. Bokemper and Gregory A. Huber. _(under review)_
-
-> [Local PDF](../research/ssdilab_paper.pdf) &bull; [Online Appendix](../research/ssdilab_appx.pdf) &bull; <a onclick="openClose('ssdilab')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="ssdilab" class="texter">Do perceptions of abuse in public social insurance programs undercut program support? Answering this causal question is difficult because perceptions of program abuse can arise from multiple potential causes including prior opposition to the program. Examining the case of disability insurance, we circumvent these challenges using multiple laboratory experiments involving a novel simulated political economy to study the interplay between labor market shocks, program abuse, perceptions of abuse, and preferences for benefit levels. We find that negative labor market shocks that preclude injured workers from returning to work at their pre-injury wage upon recovery increases the probability of staying on disability instead of working at a lower-wage job despite being healthy. Further, when benefits are costly, learning about program abuse causes workers unaffected by labor market shocks to prefer lower benefit levels. Our results demonstrate an important channel by which shocks to market employment diminish support for government social insurance.</p>{: .notice--primary}
-
-<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
-
-**The Effect of Electing Minority Legislators on Substantive Minority Representation: New Evidence from Close U.S. State Legislative Elections**
 
 ## Other Writing
 
