@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-I am a postdoctoral associate in the [Center for the Study of American Politics](https://csap.yale.edu/) at [Yale University](https://www.yale.edu/), where I conduct research at the intersection of political psychology, political behavior, identity politics (race, ethnicity, and gender), and the politics of public policy and law.
+I am a postdoctoral associate in the [Center for the Study of American Politics](https://csap.yale.edu/) and the [Institution for Social and Policy Studies](https://isps.yale.edu/) at [Yale University](https://www.yale.edu/), where I conduct research at the intersection of political psychology, political behavior, identity politics (race, ethnicity, and gender), and the politics of public policy and law.
 
 I study identity in the context of representation and accountability. My research agenda focuses on how members of underrepresented groups (such as racial minorities and women) form political preferences and how public policies and elite behavior affect the welfare of these groups. To investigate these questions, my work combines multi-method strategies to measure the lived experiences of these groups with innovative experimental and quasi-experimental research designs.
 
