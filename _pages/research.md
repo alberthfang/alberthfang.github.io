@@ -15,19 +15,19 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
+**Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
+
+> [Local PDF](../research/pbb_paper.pdf) &bull; <a onclick="openClose('pbb')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="pbb" class="texter">Do expectations of bureaucratic bias affect whether citizens choose to make claims on the state? Building on the notion of racialized and gendered partisanship, I argue that partisans employ the party controlling the bureaucracy as a key heuristic to infer the degree of group-specific bias in government, and these inferences shape their likelihood of making claims on the state in raced and gendered policy areas. I test this theory in the domain of civil rights, examining how partisan control of fair employment agencies affects how individuals, upon experiencing racial or sex discrimination, develop preferences for vindicating their civil rights by filing a formal discrimination complaint with these agencies. Analyzing data from a novel survey experiment fielded on a large sample of nearly 4,000 subjects, including nationally representative oversamples of Black, Latino, and Asian Americans, I find evidence that partisans employ information about the party controlling the bureaucracy to form perceptions about group-specific bureaucratic bias, specifically the agency's perceived unwillingness to enforce civil rights laws for their social group; to form expectations of how procedurally fair and just the agency's investigation would be; and to form intentions to mobilize their civil rights by filing a discrimination complaint with the agency. These results shed new light on the channels through which intersecting partisan and social identities interact with partisan contexts to affect the politics surrounding discrimination, access to justice, and citizen-state interactions.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
 **Electoral Competition and Racial Minorities' Demand for Accountable Symbolic Representatives**
 
 > <a onclick="openClose('symbacc')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
 
 > <p markdown="1" id="symbacc" class="texter">Do racial minorities punish co-racial representatives for bad behavior in office? Analyzing an original experiment conducted with over 1,600 Black, Latinx, and Asian American subjects, I find that racial minorities want their unchallenged descriptive representative to face electoral competition from co-partisan primary challengers when she engages in bad behavior. I also find that when a descriptive representative faces a co-partisan primary challenger, minority voters' in-group bias for their co-racial representative is effectively erased when she engages in bad behavior. These results challenge conventional accounts of minority voters as blind cheerleaders for co-racial politicians and illuminate the conditions under which minority voters demand accountability from their symbolic representatives.</p>{: .notice--primary}
-
-<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
-
-**Perceived Bureaucratic Bias and the Psychology of Civil Rights Mobilization**
-
-> <a onclick="openClose('pbb')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
-
-> <p markdown="1" id="pbb" class="texter">Do expectations of bureaucratic bias affect whether citizens decide to make claims on the state? Building on the notion of racialized and gendered partisanship, I argue that partisans employ the party controlling the bureaucracy as a key heuristic to infer the degree of group-specific bias in government, and that these inferences affect their likelihood of making claims on the state in raced and gendered policy domains. I test this theory in the context of minority decision-making about civil rights mobilization conditional on experiencing discrimination. Analyzing data from a novel survey experiment fielded on a large sample of over 4,000 subjects, including oversamples of Blacks, Latinxs, Asian Americans, and women, I find that racial minorities and women who are Democrats employ such a heuristic and state they are less likely to file formal racial and sex discrimination complaints, respectively, with a governmental fair employment agency when the agency is controlled by Republicans instead of Democrats. Moreover, white Republicans and Republican men are more likely to claim reverse racism and sexism and state they are more likely to file complaints when the agency is under Republican control. These results shed new light on the channels through which partisan and social identities interact with partisan contexts to affect the politics of enforcing anti-discrimination laws and citizen-state interactions.</p>{: .notice--primary}
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
