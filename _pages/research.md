@@ -55,6 +55,14 @@ author_profile: true
 
 <div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
 
+**Does Registration Reduce Publication Bias? No Evidence from Medical Sciences**  with Grant M. Gordon and Macartan Humphreys.
+
+> [Local PDF](../research/ps_paper.pdf) &bull; <a onclick="openClose('ps')" style="cursor: pointer;">Abstract <i class="far fa-plus-square" aria-hidden="true"></i></a>
+
+> <p markdown="1" id="ps" class="texter">There is increasing support for the use of research registries in social sciences. One possible advantage of the use of a registry is that it would limit the scope for publication or analysis biases that result from selecting statistically significant results. However, to date, there is surprisingly little evidence for the claim that registration will reduce these biases. We look to historical data from medical publishing for evidence, comparing the distribution of p-values before and after the introduction of registration in prominent journals. We couple this analysis with a pre-analysis survey of medical experts and social scientists to assess their prior expectations of the impact of registration on medical publishing and to assess their perceptions on the specificity and sensitivity of our test of effects. Although there is evidence of publication bias in medical studies, our registered analyses uncovered no evidence that registration affected that bias, leading us to moderately downgrade our confidence in the curative effects of registration.</p>{: .notice--primary}
+
+<div style="font-size: 6px; line-height: 6px;">&nbsp;</div>
+
 ## Publications
 
 **Can the Government Deter Discrimination? Evidence from a Randomized Intervention in New York City**  with Andrew M. Guess and Macartan Humphreys. Forthcoming, _The Journal of Politics_.
