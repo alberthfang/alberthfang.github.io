@@ -1,6 +1,0 @@
-/*
-   For Show/Hide
-   ========================================================================== */
-
-.texter {display:none} @media print {.texter {display:block;}}
-
