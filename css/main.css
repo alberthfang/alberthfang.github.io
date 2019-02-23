@@ -1,12 +1,12 @@
 body {
-    font-family: 'Oxygen', Verdana, Helvetica, Arial, sans-serif;
+    font-family: 'EB Garamond', Verdana, Helvetica, Arial, sans-serif;
     margin-left: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Oxygen', Helvetica, Arial, sans-serif;
+    font-family: 'EB Garamond', Helvetica, Arial, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -28,18 +28,18 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-family: 'Oxygen', Helvetica, Arial, sans-serif;
+    font-family: 'EB Garamond', Helvetica, Arial, sans-serif;
     font-weight: 700;
     font-size: 1.25em;
 }
 p {
-    font-size: .9em;
-    line-height: 1.2em;
+    font-size: 1.05em;
+    line-height: 1.25em;
     color: #333;
 }
 ul li {
-    font-size: .9em;
-    line-height: 1.2em;
+    font-size: .95em;
+    line-height: 1.15em;
     margin-bottom: 10px;
     color: #333;
 }
