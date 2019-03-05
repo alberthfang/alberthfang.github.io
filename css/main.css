@@ -33,13 +33,13 @@ h1 {
     font-size: 1.25em;
 }
 p {
-    font-size: 1.05em;
+    font-size: .95em;
     line-height: 1.25em;
     color: #333;
 }
 ul li {
-    font-size: .95em;
-    line-height: 1.15em;
+    font-size: .75em;
+    line-height: 1.05em;
     margin-bottom: 10px;
     color: #333;
 }
