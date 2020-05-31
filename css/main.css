@@ -1,11 +1,11 @@
 body {
-    font-family: Helvetica, Arial, 'Helvetica Neue Light', 'Assistant', Verdana, sans-serif;
+    font-family: Lato, Helvetica, Arial, 'Helvetica Neue Light', 'Assistant', Verdana, sans-serif;
     margin-top: 30px;
     margin-bottom: 30px;
     font-weight: 300;
 }
 nav ul, footer ul {
-    font-family: Helvetica, Arial, 'Helvetica Neue Light', 'Assistant', Verdana, sans-serif;
+    font-family: Lato, Helvetica, Arial, 'Helvetica Neue Light', 'Assistant', Verdana, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
