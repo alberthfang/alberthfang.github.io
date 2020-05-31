@@ -28,12 +28,12 @@ a:hover {
     color: #FF4848;
 }
 h1 {
-    font-family: 'News Cycle', Helvetica, Arial, Verdana, sans-serif;
-    font-weight: 300;
-    font-size: 1.5em;
+    font-family: 'News Cycle', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
+    font-weight: 200;
+    font-size: 1.75em;
 }
-h3 {
-    font-family: 'News Cycle', Helvetica, Arial, Verdana, sans-serif;
+h2 {
+    font-family: 'News Cycle', 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
     font-weight: 400;
     font-size: 1.25em;
 }
