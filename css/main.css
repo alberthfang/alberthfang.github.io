@@ -1,13 +1,13 @@
 body {
-    font-family: Verdana, Lato, Helvetica, Arial, 'Helvetica Neue Light', 'Assistant', sans-serif;
+    font-family: 'Work Sans', Verdana, Helvetica, Arial, 'Helvetica Neue Light', sans-serif;
     margin-top: 30px;
     margin-bottom: 30px;
-    font-weight: 300;
+    font-weight: 200;
     font-size: .85em;
     color: #333333;
 }
 nav ul, footer ul {
-    font-family: Verdana, Lato, Helvetica, Arial, 'Helvetica Neue Light', 'Assistant',  sans-serif;
+    font-family: 'Work Sans', Verdana, Helvetica, Arial, 'Helvetica Neue Light', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
