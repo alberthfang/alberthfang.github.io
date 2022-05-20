@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, 'Helvetica Neue', Arial, Verdana, sans-serif;
+    font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 50px;
@@ -8,7 +8,7 @@ body {
     color: #333333;
 }
 nav ul, footer ul {
-    font-family: Helvetica, 'Helvetica Neue', Arial, Verdana, sans-serif;
+    font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -32,14 +32,14 @@ a:hover {
     color: #79AFFE;
 }
 h1 {
-    font-family: 'News Cycle', Helvetica, 'Helvetica Neue', Arial, Verdana, sans-serif;
-    font-weight: 300;
-    font-size: 1em;
+    font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.2em;
 }
 h2 {
-    font-family: 'News Cycle', Helvetica, 'Helvetica Neue', Arial, Verdana, sans-serif;
-    font-weight: 700;
-    font-size: .8em;
+    font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.05em;
 }
 p {
 /*    font-size: .95em; */
