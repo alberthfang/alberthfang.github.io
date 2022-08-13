@@ -34,14 +34,13 @@ a:hover {
 h1 {
     font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
     font-weight: 700;
-    font-size: 1.4em;
+    font-size: 2em;
     color: #333333;
 
 }
 h2 {
     font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
     font-weight: 500;
-    font-size: 1.05em;
     color: #333333;
 }
 p {
@@ -63,14 +62,14 @@ blockquote {
 }
 ul li {
     font-family:  Helvetica, 'Helvetica Neue', Arial, sans-serif;
-    font-size: .85em;
-    line-height: 1.05em;
+    font-size: 1em;
+    line-height: 1.1em;
     margin-bottom: 10px;
     color: #333;
     font-weight: 300;
 }
 ol li {
-    font-size: .8em;
+    font-size: .9em;
     line-height: 1.05em;
     margin-bottom: 10px;
     color: #333;
