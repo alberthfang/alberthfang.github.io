@@ -1,5 +1,5 @@
 body {
-    font-family: 'Work Sans', Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 50px;
@@ -8,7 +8,7 @@ body {
     color: #333333;
 }
 nav ul, footer ul {
-    font-family: 'Work Sans', Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -32,26 +32,26 @@ a:hover {
     color: #79AFFE;
 }
 h1 {
-    font-family: 'Work Sans', Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     font-weight: 300;
     font-size: 2em;
     color: #333333;
 
 }
 h2 {
-    font-family: Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     font-weight: 500;
     color: #333333;
 }
 h3 {
-    font-family: 'Work Sans', Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     font-weight: 600;
     font-size: .9em;
     color: #1434A4;
 }
 p {
-    font-family: 'Work Sans', Helvetica, 'Helvetica Neue', Verdana, Arial, sans-serif;
-    font-size: .8em;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 0.8em;
     line-height: 1.25em;
     color: #333333;
     font-weight: 300;
@@ -67,7 +67,7 @@ blockquote {
     color: #515151;
 }
 ul li {
-    font-family:  'Work Sans', Helvetica, 'Helvetica Neue', Arial, sans-serif;
+    font-family:  Verdana, Arial, sans-serif;
     font-size: .8em;
     line-height: 1.1em;
     margin-bottom: 10px;
